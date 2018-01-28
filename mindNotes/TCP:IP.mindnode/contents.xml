@@ -1,0 +1,3419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.956, 0.966, 0.956, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{0, 0}</string>
+				<key>nodeID</key>
+				<string>4F7740E7-E695-4EC8-8055-323931A527CF</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{132, -1037}</string>
+						<key>nodeID</key>
+						<string>2212120F-285B-4C6A-8E97-9789AE799EFD</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{244, -1037}</string>
+								<key>nodeID</key>
+								<string>C9A1AD6D-DFBD-473C-9D76-EC24390C65CF</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{437, -1444.5}</string>
+										<key>nodeID</key>
+										<string>180AC563-C4EB-45BA-8EDD-7ECC66DEACBE</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{570, -1491.5}</string>
+												<key>nodeID</key>
+												<string>5AF0E672-0A1B-44C9-AF9D-7B6FCD38F4BC</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP/IP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;意味着&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; TCP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;和&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; IP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;在一起协同工作。&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;负责应用软件（比如你的浏览器）和网络软件之间的通信。&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;IP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;负责计算机之间的通信。&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;负责将数据分割并装入&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; IP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包，然后在它们到达的时候重新组合它们。&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;IP &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;负责将包发送至接受者。&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+TCP/IP 
+\f1 \'d2\'e2\'ce\'b6\'d7\'c5
+\f0  TCP 
+\f1 \'ba\'cd
+\f0  IP 
+\f1 \'d4\'da\'d2\'bb\'c6\'f0\'d0\'ad\'cd\'ac\'b9\'a4\'d7\'f7\'a1\'a3
+\f0 \
+TCP 
+\f1 \'b8\'ba\'d4\'f0\'d3\'a6\'d3\'c3\'c8\'ed\'bc\'fe\'a3\'a8\'b1\'c8\'c8\'e7\'c4\'e3\'b5\'c4\'e4\'af\'c0\'c0\'c6\'f7\'a3\'a9\'ba\'cd\'cd\'f8\'c2\'e7\'c8\'ed\'bc\'fe\'d6\'ae\'bc\'e4\'b5\'c4\'cd\'a8\'d0\'c5\'a1\'a3
+\f0 \
+IP 
+\f1 \'b8\'ba\'d4\'f0\'bc\'c6\'cb\'e3\'bb\'fa\'d6\'ae\'bc\'e4\'b5\'c4\'cd\'a8\'d0\'c5\'a1\'a3
+\f0 \
+TCP 
+\f1 \'b8\'ba\'d4\'f0\'bd\'ab\'ca\'fd\'be\'dd\'b7\'d6\'b8\'ee\'b2\'a2\'d7\'b0\'c8\'eb
+\f0  IP 
+\f1 \'b0\'fc\'a3\'ac\'c8\'bb\'ba\'f3\'d4\'da\'cb\'fc\'c3\'c7\'b5\'bd\'b4\'ef\'b5\'c4\'ca\'b1\'ba\'f2\'d6\'d8\'d0\'c2\'d7\'e9\'ba\'cf\'cb\'fc\'c3\'c7\'a1\'a3
+\f0 \
+IP 
+\f1 \'b8\'ba\'d4\'f0\'bd\'ab\'b0\'fc\'b7\'a2\'cb\'cd\'d6\'c1\'bd\'d3\'ca\'dc\'d5\'df\'a1\'a3}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TCP/IP&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TCP/IP}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{437, -1282}</string>
+										<key>nodeID</key>
+										<string>D7FB8071-90EF-49CC-B1AA-6798DBCD8650</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{641, -1356.5}</string>
+												<key>nodeID</key>
+												<string>619DCE5B-B159-4BD7-950C-66CCCB1DA9C4</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;•	&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP (&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;传输控制协议&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;) - &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;应用程序之间通信&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'95	\expnd0\expndtw0\kerning0
+TCP (
+\f1 \'b4\'ab\'ca\'e4\'bf\'d8\'d6\'c6\'d0\'ad\'d2\'e9
+\f0 ) - 
+\f1 \'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'d6\'ae\'bc\'e4\'cd\'a8\'d0\'c5}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{641, -1323.5}</string>
+												<key>nodeID</key>
+												<string>03FB8257-F481-45E6-AD8B-5D5ED7E4A37B</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;•	UDP (&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;用户数据包协议&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;) - &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;应用程序之间的简单通信&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'95	\expnd0\expndtw0\kerning0
+UDP (
+\f1 \'d3\'c3\'bb\'a7\'ca\'fd\'be\'dd\'b0\'fc\'d0\'ad\'d2\'e9
+\f0 ) - 
+\f1 \'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'d6\'ae\'bc\'e4\'b5\'c4\'bc\'f2\'b5\'a5\'cd\'a8\'d0\'c5}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{641, -1273.5}</string>
+												<key>nodeID</key>
+												<string>8F3415B0-32B4-479E-9912-84FF290903E3</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;•	IP (&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;网际协议&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;) - &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;计算机之间的通信&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'95	\expnd0\expndtw0\kerning0
+IP (
+\f1 \'cd\'f8\'bc\'ca\'d0\'ad\'d2\'e9
+\f0 ) - 
+\f1 \'bc\'c6\'cb\'e3\'bb\'fa\'d6\'ae\'bc\'e4\'b5\'c4\'cd\'a8\'d0\'c5}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{641, -1240.5}</string>
+												<key>nodeID</key>
+												<string>80C2184A-0AAB-43A1-97C2-1DE0A4B8EDB9</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;•	ICMP (&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;因特网消息控制协议&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;) - &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;针对错误和状态&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'95	\expnd0\expndtw0\kerning0
+ICMP (
+\f1 \'d2\'f2\'cc\'d8\'cd\'f8\'cf\'fb\'cf\'a2\'bf\'d8\'d6\'c6\'d0\'ad\'d2\'e9
+\f0 ) - 
+\f1 \'d5\'eb\'b6\'d4\'b4\'ed\'ce\'f3\'ba\'cd\'d7\'b4\'cc\'ac}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{641, -1207.5}</string>
+												<key>nodeID</key>
+												<string>D939F597-72C4-4EE1-AE95-D453D2F12E11</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;•	DHCP (&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;动态主机配置协议&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;) - &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;针对动态寻址&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'95	\expnd0\expndtw0\kerning0
+DHCP (
+\f1 \'b6\'af\'cc\'ac\'d6\'f7\'bb\'fa\'c5\'e4\'d6\'c3\'d0\'ad\'d2\'e9
+\f0 ) - 
+\f1 \'d5\'eb\'b6\'d4\'b6\'af\'cc\'ac\'d1\'b0\'d6\'b7}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;用于处理数据通信的协议&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\'d3\'c3\'d3\'da\'b4\'a6\'c0\'ed\'ca\'fd\'be\'dd\'cd\'a8\'d0\'c5\'b5\'c4\'d0\'ad\'d2\'e9}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{437, -928.5}</string>
+										<key>nodeID</key>
+										<string>C063CF98-1AAD-44F9-94E1-F7DA5E806175</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{635, -1092.5}</string>
+												<key>nodeID</key>
+												<string>A9838512-E6FE-44FD-88BD-859A0306E7C7</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -1174.5}</string>
+														<key>nodeID</key>
+														<string>54412223-F424-4D4D-ADCF-3FAE748A2E98</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;IP 协议&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 IP \'d0\'ad\'d2\'e9}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -1133.5}</string>
+														<key>nodeID</key>
+														<string>D0689B1C-4546-4236-9E5B-68D93C6E2ADB</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;ICMP 协议&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 ICMP \'d0\'ad\'d2\'e9}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -1092.5}</string>
+														<key>nodeID</key>
+														<string>5FABB14E-92DA-4752-AB12-5AB3863CA1CE</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;ARP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 ARP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -1051.5}</string>
+														<key>nodeID</key>
+														<string>842D0B01-B328-4BD4-A68A-7FBD5ADEAB08</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;RARP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 RARP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -1010.5}</string>
+														<key>nodeID</key>
+														<string>706CBCF9-5EF7-400F-8537-7CB51DDD7E26</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;BOOTP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 BOOTP}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;网络层&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cd\'f8\'c2\'e7\'b2\'e3}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{635, -949}</string>
+												<key>nodeID</key>
+												<string>4EA2A635-1A4E-4DF9-BE81-2FE457B999B4</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -969.5}</string>
+														<key>nodeID</key>
+														<string>0B196335-AD13-45DC-BD2C-C8AAFE80ADCB</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TCP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TCP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -928.5}</string>
+														<key>nodeID</key>
+														<string>EEB93518-EC95-4A2E-8384-680881E53E47</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;UDP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 UDP}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;传输层&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'ab\'ca\'e4\'b2\'e3}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{635, -785}</string>
+												<key>nodeID</key>
+												<string>93FCF86A-8122-403E-88A3-58EA95F94F81</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -887.5}</string>
+														<key>nodeID</key>
+														<string>416F7382-B865-44C0-82DA-89AFB890F739</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;FTP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 FTP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -846.5}</string>
+														<key>nodeID</key>
+														<string>D769ED70-0D0E-4922-A2AF-A01A64426E3C</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;HTTP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 HTTP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -805.5}</string>
+														<key>nodeID</key>
+														<string>38832454-1107-4239-8462-573A77D27512</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TELNET&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TELNET}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -764.5}</string>
+														<key>nodeID</key>
+														<string>7C35D064-8994-4F97-BEC5-420C90C0511F</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;SMTP&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 SMTP}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -723.5}</string>
+														<key>nodeID</key>
+														<string>494A78D3-B7AD-46D1-AC83-BA7807BCC1C0</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;NDS&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 NDS}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{761, -682.5}</string>
+														<key>nodeID</key>
+														<string>E23AE60F-5294-4805-AC5F-49A1D9E0B917</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;……&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'a1\'ad\'a1\'ad}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;应用层&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'a6\'d3\'c3\'b2\'e3}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;可分为三个层次&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bf\'c9\'b7\'d6\'ce\'aa\'c8\'fd\'b8\'f6\'b2\'e3\'b4\'ce}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{437, -612}</string>
+										<key>nodeID</key>
+										<string>75402C08-1EF3-4B70-86C3-A76769767EE1</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{581, -641.5}</string>
+												<key>nodeID</key>
+												<string>046862BE-A100-4B90-9776-104E21981CDD</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;是应用层协议，其传输都是被包装成&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;协议传输。可以用&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;SOCKET&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;实现&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;。&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+HTTP
+\f1 \'ca\'c7\'d3\'a6\'d3\'c3\'b2\'e3\'d0\'ad\'d2\'e9\'a3\'ac\'c6\'e4\'b4\'ab\'ca\'e4\'b6\'bc\'ca\'c7\'b1\'bb\'b0\'fc\'d7\'b0\'b3\'c9
+\f0 TCP
+\f1 \'d0\'ad\'d2\'e9\'b4\'ab\'ca\'e4\'a1\'a3\'bf\'c9\'d2\'d4\'d3\'c3
+\f0 SOCKET
+\f1 \'ca\'b5\'cf\'d6
+\f0 HTTP
+\f1 \'a1\'a3}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{581, -591.5}</string>
+												<key>nodeID</key>
+												<string>469A1693-EDF6-45D0-A9DF-834E2B7353C8</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;SOCKET&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;是实现传输层协议的一种编程&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;API&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，可以是&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，也可以是&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;UDP&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;。&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+SOCKET
+\f1 \'ca\'c7\'ca\'b5\'cf\'d6\'b4\'ab\'ca\'e4\'b2\'e3\'d0\'ad\'d2\'e9\'b5\'c4\'d2\'bb\'d6\'d6\'b1\'e0\'b3\'cc
+\f0 API
+\f1 \'a3\'ac\'bf\'c9\'d2\'d4\'ca\'c7
+\f0 TCP
+\f1 \'a3\'ac\'d2\'b2\'bf\'c9\'d2\'d4\'ca\'c7
+\f0 UDP
+\f1 \'a1\'a3}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;新建节点&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d0\'c2\'bd\'a8\'bd\'da\'b5\'e3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TCP/IP 协议组&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TCP/IP \'d0\'ad\'d2\'e9\'d7\'e9}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;简析&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bc\'f2\'ce\'f6}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{132, -196.5}</string>
+						<key>nodeID</key>
+						<string>4EBD4B37-815E-4144-B010-31FA5E33FF92</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{307, -419.5}</string>
+								<key>nodeID</key>
+								<string>79680E60-F4E3-49F3-A3B4-01CA78E15A9C</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{427, -541.5}</string>
+										<key>nodeID</key>
+										<string>730C2C94-8C43-43D5-B362-C0B9BD86B8D7</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{787, -541.5}</string>
+												<key>nodeID</key>
+												<string>2430BB36-817F-45E4-B882-94265099CCE3</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Palatino Linotype"; text-align: left; -cocoa-font-postscriptname: "PalatinoLinotype-Roman"; '&gt;Transmission Control Protocol&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 PalatinoLinotype-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+Transmission Control Protocol}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;   TCP --- &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;传输控制协议&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;提供的是面向连接、可靠的字节流服务。当客户和服务器彼此交换数据前，必须先在双方之间建立一个&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接，之后才能传输数据。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;提供超时重发，丢弃重复数据，检验数据，流量控制等功能，保证数据能从一端传到另一端。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;理想状态下，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接一旦建立，在通信双方中的任何一方主动关闭连接前，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接都将被一直保持下去。断开连接时服务器和客户端均可以主动发起断开&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接的请求&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fnil\fcharset0 SimSun;
+}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0TCP --- 
+\f1 \cf2 \'b4\'ab\'ca\'e4\'bf\'d8\'d6\'c6\'d0\'ad\'d2\'e9
+\f0 \cf2 ,
+\f1 \cf2 \'cc\'e1\'b9\'a9\'b5\'c4\'ca\'c7\'c3\'e6\'cf\'f2\'c1\'ac\'bd\'d3\'a1\'a2\'bf\'c9\'bf\'bf\'b5\'c4\'d7\'d6\'bd\'da\'c1\'f7\'b7\'fe\'ce\'f1\'a1\'a3\'b5\'b1\'bf\'cd\'bb\'a7\'ba\'cd\'b7\'fe\'ce\'f1\'c6\'f7\'b1\'cb\'b4\'cb\'bd\'bb\'bb\'bb\'ca\'fd\'be\'dd\'c7\'b0\'a3\'ac\'b1\'d8\'d0\'eb\'cf\'c8\'d4\'da\'cb\'ab\'b7\'bd\'d6\'ae\'bc\'e4\'bd\'a8\'c1\'a2\'d2\'bb\'b8\'f6
+\f0 \cf2 TCP
+\f1 \cf2 \'c1\'ac\'bd\'d3\'a3\'ac\'d6\'ae\'ba\'f3\'b2\'c5\'c4\'dc\'b4\'ab\'ca\'e4\'ca\'fd\'be\'dd\'a1\'a3
+\f0 \cf2 TCP
+\f1 \cf2 \'cc\'e1\'b9\'a9\'b3\'ac\'ca\'b1\'d6\'d8\'b7\'a2\'a3\'ac\'b6\'aa\'c6\'fa\'d6\'d8\'b8\'b4\'ca\'fd\'be\'dd\'a3\'ac\'bc\'ec\'d1\'e9\'ca\'fd\'be\'dd\'a3\'ac\'c1\'f7\'c1\'bf\'bf\'d8\'d6\'c6\'b5\'c8\'b9\'a6\'c4\'dc\'a3\'ac\'b1\'a3\'d6\'a4\'ca\'fd\'be\'dd\'c4\'dc\'b4\'d3\'d2\'bb\'b6\'cb\'b4\'ab\'b5\'bd\'c1\'ed\'d2\'bb\'b6\'cb\'a1\'a3
+\f0 \cf2 \'a0
+\f2 \cf2 \uc0\u29702 \u24819 \u29366 \u24577 \u19979 \u65292 
+\f0 \cf2 TCP
+\f2 \cf2 \uc0\u36830 \u25509 \u19968 \u26086 \u24314 \u31435 \u65292 \u22312 \u36890 \u20449 \u21452 \u26041 \u20013 \u30340 \u20219 \u20309 \u19968 \u26041 \u20027 \u21160 \u20851 \u38381 \u36830 \u25509 \u21069 \u65292 
+\f0 \cf2 TCP 
+\f2 \cf2 \uc0\u36830 \u25509 \u37117 \u23558 \u34987 \u19968 \u30452 \u20445 \u25345 \u19979 \u21435 \u12290 \u26029 \u24320 \u36830 \u25509 \u26102 \u26381 \u21153 \u22120 \u21644 \u23458 \u25143 \u31471 \u22343 \u21487 \u20197 \u20027 \u21160 \u21457 \u36215 \u26029 \u24320 
+\f0 \cf2 TCP
+\f2 \cf2 \uc0\u36830 \u25509 \u30340 \u35831 \u27714 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{427, -382.5}</string>
+										<key>nodeID</key>
+										<string>6BD73B4D-6F95-44DB-B4A1-E43CEE60B501</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{787, -382.5}</string>
+												<key>nodeID</key>
+												<string>B53211F3-9CA8-4652-8027-398816A39946</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Palatino Linotype"; text-align: left; -cocoa-font-postscriptname: "PalatinoLinotype-Roman"; '&gt;User Datagram Protocol or Universal Datagram Protocol&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 PalatinoLinotype-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+User Datagram Protocol or Universal Datagram Protocol}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;   UDP --- &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;用户数据报协议，是一个无连接的简单的面向数据报的运输层协议。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;UDP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;不提供可靠性，它只是把应用程序传给&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;层的数据报发送出去，但是并不能保证它们能到达目的地。由于&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;UDP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;在传输数据报前不用在客户和服务器之间建立一个连接，且没有超时重发等机制，故而传输速度很快&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0UDP --- 
+\f1 \cf2 \'d3\'c3\'bb\'a7\'ca\'fd\'be\'dd\'b1\'a8\'d0\'ad\'d2\'e9\'a3\'ac\'ca\'c7\'d2\'bb\'b8\'f6\'ce\'de\'c1\'ac\'bd\'d3\'b5\'c4\'bc\'f2\'b5\'a5\'b5\'c4\'c3\'e6\'cf\'f2\'ca\'fd\'be\'dd\'b1\'a8\'b5\'c4\'d4\'cb\'ca\'e4\'b2\'e3\'d0\'ad\'d2\'e9\'a1\'a3
+\f0 \cf2 UDP
+\f1 \cf2 \'b2\'bb\'cc\'e1\'b9\'a9\'bf\'c9\'bf\'bf\'d0\'d4\'a3\'ac\'cb\'fc\'d6\'bb\'ca\'c7\'b0\'d1\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b4\'ab\'b8\'f8
+\f0 \cf2 IP
+\f1 \cf2 \'b2\'e3\'b5\'c4\'ca\'fd\'be\'dd\'b1\'a8\'b7\'a2\'cb\'cd\'b3\'f6\'c8\'a5\'a3\'ac\'b5\'ab\'ca\'c7\'b2\'a2\'b2\'bb\'c4\'dc\'b1\'a3\'d6\'a4\'cb\'fc\'c3\'c7\'c4\'dc\'b5\'bd\'b4\'ef\'c4\'bf\'b5\'c4\'b5\'d8\'a1\'a3\'d3\'c9\'d3\'da
+\f0 \cf2 UDP
+\f1 \cf2 \'d4\'da\'b4\'ab\'ca\'e4\'ca\'fd\'be\'dd\'b1\'a8\'c7\'b0\'b2\'bb\'d3\'c3\'d4\'da\'bf\'cd\'bb\'a7\'ba\'cd\'b7\'fe\'ce\'f1\'c6\'f7\'d6\'ae\'bc\'e4\'bd\'a8\'c1\'a2\'d2\'bb\'b8\'f6\'c1\'ac\'bd\'d3\'a3\'ac\'c7\'d2\'c3\'bb\'d3\'d0\'b3\'ac\'ca\'b1\'d6\'d8\'b7\'a2\'b5\'c8\'bb\'fa\'d6\'c6\'a3\'ac\'b9\'ca\'b6\'f8\'b4\'ab\'ca\'e4\'cb\'d9\'b6\'c8\'ba\'dc\'bf\'ec
+\f0 \cf2 \'a0}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;【&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;概念&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;】&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a1\'be
+\b0 \cf2 \'b8\'c5\'c4\'ee
+\b \cf2 \'a1\'bf}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{307, -163}</string>
+								<key>nodeID</key>
+								<string>D05B539B-C863-4AC9-B9C5-6092AEC990DB</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{451, -264.5}</string>
+										<key>nodeID</key>
+										<string>8EB8A75F-D25B-433F-923A-5CD50DA4AC0B</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;发送的包有序号，对方收到包后要给一个反馈，如果超过一定时间还没收到反馈就自动执行超时重发，因此&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "Courier"; -cocoa-font-postscriptname: "Courier-Bold"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;最大的优点是可靠&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;。一般网页（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;http&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;）、邮件（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SMTP)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;、远程连接&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;(Telnet)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;、文件&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;(FTP)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;传送就用&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fmodern\fcharset0 Courier-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 TCP
+\f1 \cf2 \'b7\'a2\'cb\'cd\'b5\'c4\'b0\'fc\'d3\'d0\'d0\'f2\'ba\'c5\'a3\'ac\'b6\'d4\'b7\'bd\'ca\'d5\'b5\'bd\'b0\'fc\'ba\'f3\'d2\'aa\'b8\'f8\'d2\'bb\'b8\'f6\'b7\'b4\'c0\'a1\'a3\'ac\'c8\'e7\'b9\'fb\'b3\'ac\'b9\'fd\'d2\'bb\'b6\'a8\'ca\'b1\'bc\'e4\'bb\'b9\'c3\'bb\'ca\'d5\'b5\'bd\'b7\'b4\'c0\'a1\'be\'cd\'d7\'d4\'b6\'af\'d6\'b4\'d0\'d0\'b3\'ac\'ca\'b1\'d6\'d8\'b7\'a2\'a3\'ac\'d2\'f2\'b4\'cb
+\f2\b \cf2 TCP
+\f1 \cf2 \'d7\'ee\'b4\'f3\'b5\'c4\'d3\'c5\'b5\'e3\'ca\'c7\'bf\'c9\'bf\'bf
+\b0 \cf2 \'a1\'a3\'d2\'bb\'b0\'e3\'cd\'f8\'d2\'b3\'a3\'a8
+\f0 \cf2 http
+\f1 \cf2 \'a3\'a9\'a1\'a2\'d3\'ca\'bc\'fe\'a3\'a8
+\f0 \cf2 SMTP)
+\f1 \cf2 \'a1\'a2\'d4\'b6\'b3\'cc\'c1\'ac\'bd\'d3
+\f0 \cf2 (Telnet)
+\f1 \cf2 \'a1\'a2\'ce\'c4\'bc\'fe
+\f0 \cf2 (FTP)
+\f1 \cf2 \'b4\'ab\'cb\'cd\'be\'cd\'d3\'c3
+\f0 \cf2 TCP\'a0}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{451, -163.5}</string>
+										<key>nodeID</key>
+										<string>DB2A470F-7928-4BED-9CA3-B169B6AF9590</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    UDP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;是面向消息的协议，通信时不需要建立连接，数据的传输自然是不可靠的，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "Courier"; -cocoa-font-postscriptname: "Courier-Bold"; '&gt;UDP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;一般用于多点通信和实时的数据业务&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，比如语音广播、视频、&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;QQ&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;、&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TFTP(&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;简单文件传送）、&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SNMP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;（简单网络管理协议）、&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;RTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;（实时传送协议）&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;RIP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;（路由信息协议，如报告股票市场，航空信息）、&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;DNS(&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;域名解释）。注重速度流畅。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fmodern\fcharset0 Courier-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 UDP
+\f1 \cf2 \'ca\'c7\'c3\'e6\'cf\'f2\'cf\'fb\'cf\'a2\'b5\'c4\'d0\'ad\'d2\'e9\'a3\'ac\'cd\'a8\'d0\'c5\'ca\'b1\'b2\'bb\'d0\'e8\'d2\'aa\'bd\'a8\'c1\'a2\'c1\'ac\'bd\'d3\'a3\'ac\'ca\'fd\'be\'dd\'b5\'c4\'b4\'ab\'ca\'e4\'d7\'d4\'c8\'bb\'ca\'c7\'b2\'bb\'bf\'c9\'bf\'bf\'b5\'c4\'a3\'ac
+\f2\b \cf2 UDP
+\f1 \cf2 \'d2\'bb\'b0\'e3\'d3\'c3\'d3\'da\'b6\'e0\'b5\'e3\'cd\'a8\'d0\'c5\'ba\'cd\'ca\'b5\'ca\'b1\'b5\'c4\'ca\'fd\'be\'dd\'d2\'b5\'ce\'f1
+\b0 \cf2 \'a3\'ac\'b1\'c8\'c8\'e7\'d3\'ef\'d2\'f4\'b9\'e3\'b2\'a5\'a1\'a2\'ca\'d3\'c6\'b5\'a1\'a2
+\f0 \cf2 QQ
+\f1 \cf2 \'a1\'a2
+\f0 \cf2 TFTP(
+\f1 \cf2 \'bc\'f2\'b5\'a5\'ce\'c4\'bc\'fe\'b4\'ab\'cb\'cd\'a3\'a9\'a1\'a2
+\f0 \cf2 SNMP
+\f1 \cf2 \'a3\'a8\'bc\'f2\'b5\'a5\'cd\'f8\'c2\'e7\'b9\'dc\'c0\'ed\'d0\'ad\'d2\'e9\'a3\'a9\'a1\'a2
+\f0 \cf2 RTP
+\f1 \cf2 \'a3\'a8\'ca\'b5\'ca\'b1\'b4\'ab\'cb\'cd\'d0\'ad\'d2\'e9\'a3\'a9
+\f0 \cf2 RIP
+\f1 \cf2 \'a3\'a8\'c2\'b7\'d3\'c9\'d0\'c5\'cf\'a2\'d0\'ad\'d2\'e9\'a3\'ac\'c8\'e7\'b1\'a8\'b8\'e6\'b9\'c9\'c6\'b1\'ca\'d0\'b3\'a1\'a3\'ac\'ba\'bd\'bf\'d5\'d0\'c5\'cf\'a2\'a3\'a9\'a1\'a2
+\f0 \cf2 DNS(
+\f1 \cf2 \'d3\'f2\'c3\'fb\'bd\'e2\'ca\'cd\'a3\'a9\'a1\'a3\'d7\'a2\'d6\'d8\'cb\'d9\'b6\'c8\'c1\'f7\'b3\'a9\'a1\'a3
+\f0 \cf2 \'a0}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;【&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;适用情况&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;】&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u12304 
+\f1 \cf2 \'ca\'ca\'d3\'c3\'c7\'e9\'bf\'f6
+\f0 \cf2 \uc0\u12305 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{307, 64}</string>
+								<key>nodeID</key>
+								<string>9AF1AC15-8EBC-40B5-9523-CCE708EFE563</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{509, 38.5}</string>
+										<key>nodeID</key>
+										<string>A00AF94A-D45D-400A-87B5-A1CD4EBACC87</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{869, -28.5}</string>
+												<key>nodeID</key>
+												<string>11E4D9EB-8205-4DD3-88E2-D20FD9D1987C</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;第一次握手：客户端发送&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;syn&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;(syn=j)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;到服务器，并进入&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN_SEND&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;状态，等待服务器确认；&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 
+\f1 \cf2 \'b5\'da\'d2\'bb\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ba\'bf\'cd\'bb\'a7\'b6\'cb\'b7\'a2\'cb\'cd
+\f0 \cf2 syn
+\f1 \cf2 \'b0\'fc
+\f0 \cf2 (syn=j)
+\f1 \cf2 \'b5\'bd\'b7\'fe\'ce\'f1\'c6\'f7\'a3\'ac\'b2\'a2\'bd\'f8\'c8\'eb
+\f0 \cf2 SYN_SEND
+\f1 \cf2 \'d7\'b4\'cc\'ac\'a3\'ac\'b5\'c8\'b4\'fd\'b7\'fe\'ce\'f1\'c6\'f7\'c8\'b7\'c8\'cf\'a3\'bb}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{869, 21.5}</string>
+												<key>nodeID</key>
+												<string>1EF28813-62CD-4352-8229-DF6EF290A8E1</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;第二次握手：服务器收到&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;syn&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包，必须确认客户的&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;ack=j+1&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;），同时自己也发送一个&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;syn=k&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;），&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;                 &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;即&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN+ACK&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包，此时服务器进入&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN_RECV&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;状态；&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 
+\f1 \cf2 \'b5\'da\'b6\'fe\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ba\'b7\'fe\'ce\'f1\'c6\'f7\'ca\'d5\'b5\'bd
+\f0 \cf2 syn
+\f1 \cf2 \'b0\'fc\'a3\'ac\'b1\'d8\'d0\'eb\'c8\'b7\'c8\'cf\'bf\'cd\'bb\'a7\'b5\'c4
+\f0 \cf2 SYN
+\f1 \cf2 \'a3\'a8
+\f0 \cf2 ack=j+1
+\f1 \cf2 \'a3\'a9\'a3\'ac\'cd\'ac\'ca\'b1\'d7\'d4\'bc\'ba\'d2\'b2\'b7\'a2\'cb\'cd\'d2\'bb\'b8\'f6
+\f0 \cf2 SYN
+\f1 \cf2 \'b0\'fc\'a3\'a8
+\f0 \cf2 syn=k
+\f1 \cf2 \'a3\'a9\'a3\'ac
+\f0 \cf2  \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 
+\f1 \cf2 \'bc\'b4
+\f0 \cf2 SYN+ACK
+\f1 \cf2 \'b0\'fc\'a3\'ac\'b4\'cb\'ca\'b1\'b7\'fe\'ce\'f1\'c6\'f7\'bd\'f8\'c8\'eb
+\f0 \cf2 SYN_RECV
+\f1 \cf2 \'d7\'b4\'cc\'ac\'a3\'bb}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{869, 105.5}</string>
+												<key>nodeID</key>
+												<string>43F554BA-67E6-4369-820C-BA846A3E6AED</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;第三次握手：客户端收到服务器的&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;SYN&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;＋&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;ACK&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;包，向服务器发送确认包&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;ACK(ack=k+1)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，此包发送完毕，客户端&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;                 &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;和服务器进入&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;ESTABLISHED&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;状态，完成三次握手。&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 
+\f1 \cf2 \'b5\'da\'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ba\'bf\'cd\'bb\'a7\'b6\'cb\'ca\'d5\'b5\'bd\'b7\'fe\'ce\'f1\'c6\'f7\'b5\'c4
+\f0 \cf2 SYN
+\f1 \cf2 \'a3\'ab
+\f0 \cf2 ACK
+\f1 \cf2 \'b0\'fc\'a3\'ac\'cf\'f2\'b7\'fe\'ce\'f1\'c6\'f7\'b7\'a2\'cb\'cd\'c8\'b7\'c8\'cf\'b0\'fc
+\f0 \cf2 ACK(ack=k+1)
+\f1 \cf2 \'a3\'ac\'b4\'cb\'b0\'fc\'b7\'a2\'cb\'cd\'cd\'ea\'b1\'cf\'a3\'ac\'bf\'cd\'bb\'a7\'b6\'cb
+\f0 \cf2  \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 
+\f1 \cf2 \'ba\'cd\'b7\'fe\'ce\'f1\'c6\'f7\'bd\'f8\'c8\'eb
+\f0 \cf2 ESTABLISHED
+\f1 \cf2 \'d7\'b4\'cc\'ac\'a3\'ac\'cd\'ea\'b3\'c9\'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a1\'a3}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;要了解&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，一定要知道&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;&amp;quot;&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;三次握手，四次拜拜&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;&amp;quot;&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;所谓的三次握手，就是发送数据前必须建立的连接叫三次握手，握手完了才开始发的，这也就是面向连接的意思。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0\'a0
+\f1 \cf2 \'d2\'aa\'c1\'cb\'bd\'e2
+\f0 \cf2 TCP
+\f1 \cf2 \'a3\'ac\'d2\'bb\'b6\'a8\'d2\'aa\'d6\'aa\'b5\'c0
+\f0 \cf2 "
+\f1 \cf2 \'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ac\'cb\'c4\'b4\'ce\'b0\'dd\'b0\'dd
+\f0 \cf2 "
+\f1 \cf2 \'cb\'f9\'ce\'bd\'b5\'c4\'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ac\'be\'cd\'ca\'c7\'b7\'a2\'cb\'cd\'ca\'fd\'be\'dd\'c7\'b0\'b1\'d8\'d0\'eb\'bd\'a8\'c1\'a2\'b5\'c4\'c1\'ac\'bd\'d3\'bd\'d0\'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a3\'ac\'ce\'d5\'ca\'d6\'cd\'ea\'c1\'cb\'b2\'c5\'bf\'aa\'ca\'bc\'b7\'a2\'b5\'c4\'a3\'ac\'d5\'e2\'d2\'b2\'be\'cd\'ca\'c7\'c3\'e6\'cf\'f2\'c1\'ac\'bd\'d3\'b5\'c4\'d2\'e2\'cb\'bc\'a1\'a3
+\f0 \cf2 \'a0}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;【&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接的三次握手】&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a1\'be
+\f1 \cf2 TCP
+\f0 \cf2 \'c1\'ac\'bd\'d3\'b5\'c4\'c8\'fd\'b4\'ce\'ce\'d5\'ca\'d6\'a1\'bf}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TCP 与 UDP&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TCP \'d3\'eb UDP}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-181, 11}</string>
+						<key>nodeID</key>
+						<string>8D9142A0-79CE-4204-848D-C1A61F1E1A39</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-402, -114}</string>
+								<key>nodeID</key>
+								<string>26A9B831-57CC-4943-8719-7A7B6312DE55</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;应用层 HTTP/FTP&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'a6\'d3\'c3\'b2\'e3 HTTP/FTP}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-395, -73}</string>
+								<key>nodeID</key>
+								<string>E2DC7165-C045-438A-B65B-37FCFDAC377E</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;传输层 TCP/UDP&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'ab\'ca\'e4\'b2\'e3 TCP/UDP}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-476, -32}</string>
+								<key>nodeID</key>
+								<string>0757283F-35C2-4420-A753-58F4FBF96AC2</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;网络层 IP 协议  ARP/RARP&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cd\'f8\'c2\'e7\'b2\'e3 IP \'d0\'ad\'d2\'e9  ARP/RARP}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-343, 72.5}</string>
+								<key>nodeID</key>
+								<string>41BD8DCA-FB91-45CB-96A7-1AA9874D0550</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-580, 75}</string>
+										<key>nodeID</key>
+										<string>64D6B649-C0DA-4D33-90C6-9737BC666A3C</string>
+										<key>strokeColor</key>
+										<string>{0.194, 0.734, 0.282, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-873, 9}</string>
+												<key>nodeID</key>
+												<string>E2BF4C23-0F22-4442-8394-E11C1CC7C683</string>
+												<key>strokeColor</key>
+												<string>{0.194, 0.734, 0.282, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(35, 35, 35, 1.000000); font: 15px "Microsoft YaHei"; text-align: left; -cocoa-font-postscriptname: "MicrosoftYaHei"; '&gt;•	为IP模块发送和接收IP数据报&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
+{\colortbl;\red255\green255\blue255;\red35\green35\blue35;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \'95	\expnd0\expndtw0\kerning0
+\uc0\u20026 IP\u27169 \u22359 \u21457 \u36865 \u21644 \u25509 \u25910 IP\u25968 \u25454 \u25253 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-936, 45}</string>
+												<key>nodeID</key>
+												<string>82337928-3066-4260-AB86-E7BAB1071753</string>
+												<key>strokeColor</key>
+												<string>{0.194, 0.734, 0.282, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(35, 35, 35, 1.000000); font: 15px "Microsoft YaHei"; text-align: left; -cocoa-font-postscriptname: "MicrosoftYaHei"; '&gt;•	为ARP模块发送ARP请求和接收ARP应答（ARP：地址解析协议，将IP地址转换成MAC地址）&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
+{\colortbl;\red255\green255\blue255;\red35\green35\blue35;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \'95	\expnd0\expndtw0\kerning0
+\uc0\u20026 ARP\u27169 \u22359 \u21457 \u36865 ARP\u35831 \u27714 \u21644 \u25509 \u25910 ARP\u24212 \u31572 \u65288 ARP\u65306 \u22320 \u22336 \u35299 \u26512 \u21327 \u35758 \u65292 \u23558 IP\u22320 \u22336 \u36716 \u25442 \u25104 MAC\u22320 \u22336 \u65289 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-933, 121}</string>
+												<key>nodeID</key>
+												<string>3E4371BC-33E4-4DA5-9D04-29F921588CCA</string>
+												<key>strokeColor</key>
+												<string>{0.194, 0.734, 0.282, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(35, 35, 35, 1.000000); font: 15px "Microsoft YaHei"; text-align: left; -cocoa-font-postscriptname: "MicrosoftYaHei"; '&gt;•	为RARP发送RARP请求和接收RARP应答&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
+{\colortbl;\red255\green255\blue255;\red35\green35\blue35;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \'95	\expnd0\expndtw0\kerning0
+\uc0\u20026 RARP\u21457 \u36865 RARP\u35831 \u27714 \u21644 \u25509 \u25910 RARP\u24212 \u31572 }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(35, 35, 35, 1.000000); font: 15px "Microsoft YaHei"; text-align: left; -cocoa-font-postscriptname: "MicrosoftYaHei"; '&gt;数据链路层的工作特性：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
+{\colortbl;\red255\green255\blue255;\red35\green35\blue35;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u25968 \u25454 \u38142 \u36335 \u23618 \u30340 \u24037 \u20316 \u29305 \u24615 \u65306 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;数据链路层&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'ca\'fd\'be\'dd\'c1\'b4\'c2\'b7\'b2\'e3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;TCP/IP  分层&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 TCP/IP  \'b7\'d6\'b2\'e3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{132, 189.5}</string>
+						<key>nodeID</key>
+						<string>52004E72-48A8-4465-B66A-154037471AD5</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;新建节点&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d0\'c2\'bd\'a8\'bd\'da\'b5\'e3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{132, 269}</string>
+						<key>nodeID</key>
+						<string>1AFD8619-1458-432B-9500-3C8D2AAEB46F</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{244, 230.5}</string>
+								<key>nodeID</key>
+								<string>E5869CB6-BDA5-441D-A0CF-71D0ECD79B49</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;     &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;文件传输协议（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;File Transfer Protocol, FTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;）是&lt;/span&gt;&lt;a style='color: rgba(32, 83, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; ' href='http://baike.baidu.com/view/7729.htm'&gt;TCP/IP&lt;/a&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;网络上两台计算机传送文件的协议，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;FTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;是在&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP/IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;网络和&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;INTERNET&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;上最早使用的协议之一，它属于网络协议组的&lt;/span&gt;&lt;a style='color: rgba(32, 83, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; ' href='http://baike.baidu.com/view/239619.htm'&gt;应用层&lt;/a&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;FTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;客户机可以给&lt;/span&gt;&lt;a style='color: rgba(32, 83, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; ' href='http://baike.baidu.com/view/899.htm'&gt;服务器&lt;/a&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;发出命令来下载文件，上载文件，创建或改变服务器上的目录。&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;\red32\green83\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 \'a0
+\f1 \'ce\'c4\'bc\'fe\'b4\'ab\'ca\'e4\'d0\'ad\'d2\'e9\'a3\'a8
+\f0 File Transfer Protocol, FTP
+\f1 \'a3\'a9\'ca\'c7{\field{\*\fldinst{HYPERLINK "http://baike.baidu.com/view/7729.htm"}}{\fldrslt 
+\f0 \cf3 TCP/IP}}\'cd\'f8\'c2\'e7\'c9\'cf\'c1\'bd\'cc\'a8\'bc\'c6\'cb\'e3\'bb\'fa\'b4\'ab\'cb\'cd\'ce\'c4\'bc\'fe\'b5\'c4\'d0\'ad\'d2\'e9\'a3\'ac
+\f0 FTP
+\f1 \'ca\'c7\'d4\'da
+\f0 TCP/IP
+\f1 \'cd\'f8\'c2\'e7\'ba\'cd
+\f0 INTERNET
+\f1 \'c9\'cf\'d7\'ee\'d4\'e7\'ca\'b9\'d3\'c3\'b5\'c4\'d0\'ad\'d2\'e9\'d6\'ae\'d2\'bb\'a3\'ac\'cb\'fc\'ca\'f4\'d3\'da\'cd\'f8\'c2\'e7\'d0\'ad\'d2\'e9\'d7\'e9\'b5\'c4{\field{\*\fldinst{HYPERLINK "http://baike.baidu.com/view/239619.htm"}}{\fldrslt \cf3 \'d3\'a6\'d3\'c3\'b2\'e3}}\'a1\'a3
+\f0 FTP
+\f1 \'bf\'cd\'bb\'a7\'bb\'fa\'bf\'c9\'d2\'d4\'b8\'f8{\field{\*\fldinst{HYPERLINK "http://baike.baidu.com/view/899.htm"}}{\fldrslt \cf3 \'b7\'fe\'ce\'f1\'c6\'f7}}\'b7\'a2\'b3\'f6\'c3\'fc\'c1\'ee\'c0\'b4\'cf\'c2\'d4\'d8\'ce\'c4\'bc\'fe\'a3\'ac\'c9\'cf\'d4\'d8\'ce\'c4\'bc\'fe\'a3\'ac\'b4\'b4\'bd\'a8\'bb\'f2\'b8\'c4\'b1\'e4\'b7\'fe\'ce\'f1\'c6\'f7\'c9\'cf\'b5\'c4\'c4\'bf\'c2\'bc\'a1\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;FTP&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 FTP}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{132, 931}</string>
+						<key>nodeID</key>
+						<string>FB084415-7E03-4FDD-85E9-92B8C163E378</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{453, 747}</string>
+								<key>nodeID</key>
+								<string>2EF73396-72FB-4C01-AECA-97CBDD29ECCA</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590, 348.5}</string>
+										<key>nodeID</key>
+										<string>AAD58F15-4C7A-4645-AEAC-6E4DBF669743</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;由于通常情况下&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接就是&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接，因此&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接一旦建立，通信双方即可开始相互发送数据内容，直到双方连接断开。但在实际网络应用中，客户端到服务器之间的通信往往需要穿越多个中间节点，例如路由器、网关、防火墙等，大部分防火墙默认会关闭长时间处于非活跃状态的连接而导致&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; Socket &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接断连，因此需要通过轮询告诉网络，该连接处于活跃状态。&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 
+\f1 \'d3\'c9\'d3\'da\'cd\'a8\'b3\'a3\'c7\'e9\'bf\'f6\'cf\'c2
+\f0 Socket
+\f1 \'c1\'ac\'bd\'d3\'be\'cd\'ca\'c7
+\f0 TCP
+\f1 \'c1\'ac\'bd\'d3\'a3\'ac\'d2\'f2\'b4\'cb
+\f0 Socket
+\f1 \'c1\'ac\'bd\'d3\'d2\'bb\'b5\'a9\'bd\'a8\'c1\'a2\'a3\'ac\'cd\'a8\'d0\'c5\'cb\'ab\'b7\'bd\'bc\'b4\'bf\'c9\'bf\'aa\'ca\'bc\'cf\'e0\'bb\'a5\'b7\'a2\'cb\'cd\'ca\'fd\'be\'dd\'c4\'da\'c8\'dd\'a3\'ac\'d6\'b1\'b5\'bd\'cb\'ab\'b7\'bd\'c1\'ac\'bd\'d3\'b6\'cf\'bf\'aa\'a1\'a3\'b5\'ab\'d4\'da\'ca\'b5\'bc\'ca\'cd\'f8\'c2\'e7\'d3\'a6\'d3\'c3\'d6\'d0\'a3\'ac\'bf\'cd\'bb\'a7\'b6\'cb\'b5\'bd\'b7\'fe\'ce\'f1\'c6\'f7\'d6\'ae\'bc\'e4\'b5\'c4\'cd\'a8\'d0\'c5\'cd\'f9\'cd\'f9\'d0\'e8\'d2\'aa\'b4\'a9\'d4\'bd\'b6\'e0\'b8\'f6\'d6\'d0\'bc\'e4\'bd\'da\'b5\'e3\'a3\'ac\'c0\'fd\'c8\'e7\'c2\'b7\'d3\'c9\'c6\'f7\'a1\'a2\'cd\'f8\'b9\'d8\'a1\'a2\'b7\'c0\'bb\'f0\'c7\'bd\'b5\'c8\'a3\'ac\'b4\'f3\'b2\'bf\'b7\'d6\'b7\'c0\'bb\'f0\'c7\'bd\'c4\'ac\'c8\'cf\'bb\'e1\'b9\'d8\'b1\'d5\'b3\'a4\'ca\'b1\'bc\'e4\'b4\'a6\'d3\'da\'b7\'c7\'bb\'ee\'d4\'be\'d7\'b4\'cc\'ac\'b5\'c4\'c1\'ac\'bd\'d3\'b6\'f8\'b5\'bc\'d6\'c2
+\f0  Socket 
+\f1 \'c1\'ac\'bd\'d3\'b6\'cf\'c1\'ac\'a3\'ac\'d2\'f2\'b4\'cb\'d0\'e8\'d2\'aa\'cd\'a8\'b9\'fd\'c2\'d6\'d1\'af\'b8\'e6\'cb\'df\'cd\'f8\'c2\'e7\'a3\'ac\'b8\'c3\'c1\'ac\'bd\'d3\'b4\'a6\'d3\'da\'bb\'ee\'d4\'be\'d7\'b4\'cc\'ac\'a1\'a3}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590, 823}</string>
+										<key>nodeID</key>
+										<string>FAB564C9-05E3-41A5-AA94-885CF3EBD333</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{729, 599}</string>
+												<key>nodeID</key>
+												<string>EBD43188-5F58-465C-9410-8B7C23B7AF31</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{966, 500.5}</string>
+														<key>nodeID</key>
+														<string>F7B16785-77FB-43E7-A18F-070F770477B2</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;套接字（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;）是通信的基石，是支持&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP/IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议的网络通信的基本操作单元。它是网络通信过程中端点的抽象表示，包含进行网络通信必须的五种信息：连接使用的协议，本地主机的&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;地址，本地进程的协议端口，远地主机的&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;地址，远地进程的协议端口。&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u22871 \u25509 \u23383 \u65288 
+\f1 \cf2 socket
+\f0 \cf2 \uc0\u65289 \u26159 \u36890 \u20449 \u30340 \u22522 \u30707 \u65292 \u26159 \u25903 \u25345 
+\f1 \cf2 TCP/IP
+\f0 \cf2 \uc0\u21327 \u35758 \u30340 \u32593 \u32476 \u36890 \u20449 \u30340 \u22522 \u26412 \u25805 \u20316 \u21333 \u20803 \u12290 \u23427 \u26159 \u32593 \u32476 \u36890 \u20449 \u36807 \u31243 \u20013 \u31471 \u28857 \u30340 \u25277 \u35937 \u34920 \u31034 \u65292 \u21253 \u21547 \u36827 \u34892 \u32593 \u32476 \u36890 \u20449 \u24517 \u39035 \u30340 \u20116 \u31181 \u20449 \u24687 \u65306 \u36830 \u25509 \u20351 \u29992 \u30340 \u21327 \u35758 \u65292 \u26412 \u22320 \u20027 \u26426 \u30340 
+\f1 \cf2 IP
+\f0 \cf2 \uc0\u22320 \u22336 \u65292 \u26412 \u22320 \u36827 \u31243 \u30340 \u21327 \u35758 \u31471 \u21475 \u65292 \u36828 \u22320 \u20027 \u26426 \u30340 
+\f1 \cf2 IP
+\f0 \cf2 \uc0\u22320 \u22336 \u65292 \u36828 \u22320 \u36827 \u31243 \u30340 \u21327 \u35758 \u31471 \u21475 \u12290 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{966, 591.5}</string>
+														<key>nodeID</key>
+														<string>312EDEA4-FD47-452F-B4CA-113258E3B082</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;应用层通过传输层进行数据通信时，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;会遇到同时为多个应用程序进程提供并发服务的问题。多个&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接或多个应用程序进程可能需要通过同一个&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议端口传输数据。为了区别不同的应用程序进程和连接，许多计算机操作系统为应用程序与&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;／&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;IP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议交互提供了套接字&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;(Socket)&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;接口。应用层可以和传输层通过&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;接口，区分来自不同应用程序进程或网络连接的通信，实现数据传输的并发服务。&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u24212 \u29992 \u23618 \u36890 \u36807 \u20256 \u36755 \u23618 \u36827 \u34892 \u25968 \u25454 \u36890 \u20449 \u26102 \u65292 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u20250 \u36935 \u21040 \u21516 \u26102 \u20026 \u22810 \u20010 \u24212 \u29992 \u31243 \u24207 \u36827 \u31243 \u25552 \u20379 \u24182 \u21457 \u26381 \u21153 \u30340 \u38382 \u39064 \u12290 \u22810 \u20010 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u36830 \u25509 \u25110 \u22810 \u20010 \u24212 \u29992 \u31243 \u24207 \u36827 \u31243 \u21487 \u33021 \u38656 \u35201 \u36890 \u36807 \u21516 \u19968 \u20010 
+\f1 \cf2  TCP
+\f0 \cf2 \uc0\u21327 \u35758 \u31471 \u21475 \u20256 \u36755 \u25968 \u25454 \u12290 \u20026 \u20102 \u21306 \u21035 \u19981 \u21516 \u30340 \u24212 \u29992 \u31243 \u24207 \u36827 \u31243 \u21644 \u36830 \u25509 \u65292 \u35768 \u22810 \u35745 \u31639 \u26426 \u25805 \u20316 \u31995 \u32479 \u20026 \u24212 \u29992 \u31243 \u24207 \u19982 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u65295 
+\f1 \cf2 IP
+\f0 \cf2 \uc0\u21327 \u35758 \u20132 \u20114 \u25552 \u20379 \u20102 \u22871 \u25509 \u23383 
+\f1 \cf2 (Socket)
+\f0 \cf2 \uc0\u25509 \u21475 \u12290 \u24212 \u29992 \u23618 \u21487 \u20197 \u21644 \u20256 \u36755 \u23618 \u36890 \u36807 
+\f1 \cf2 Socket
+\f0 \cf2 \uc0\u25509 \u21475 \u65292 \u21306 \u20998 \u26469 \u33258 \u19981 \u21516 \u24212 \u29992 \u31243 \u24207 \u36827 \u31243 \u25110 \u32593 \u32476 \u36830 \u25509 \u30340 \u36890 \u20449 \u65292 \u23454 \u29616 \u25968 \u25454 \u20256 \u36755 \u30340 \u24182 \u21457 \u26381 \u21153 \u12290 }</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;（1）套接字（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;）概念：&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u65288 1\u65289 \u22871 \u25509 \u23383 \u65288 
+\f1 \cf2 socket
+\f0 \cf2 \uc0\u65289 \u27010 \u24565 \u65306 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{729, 898.5}</string>
+												<key>nodeID</key>
+												<string>1F49753E-A680-4BE6-B58A-659EDD6E8D8B</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{930, 729.5}</string>
+														<key>nodeID</key>
+														<string>A85D265A-7654-4062-B47E-3994A46B1326</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;建立&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接至少需要一对套接字，其中一个运行于客户端，称为&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;ClientSocket &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;，另一个运行于服务器端，称为&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;ServerSocket &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; text-align: left; -cocoa-font-postscriptname: "SimSun"; '&gt;套接字之间的连接过程分为三个步骤：服务器监听，客户端请求，连接确认。&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u24314 \u31435 
+\f1 \cf2 Socket
+\f0 \cf2 \uc0\u36830 \u25509 \u33267 \u23569 \u38656 \u35201 \u19968 \u23545 \u22871 \u25509 \u23383 \u65292 \u20854 \u20013 \u19968 \u20010 \u36816 \u34892 \u20110 \u23458 \u25143 \u31471 \u65292 \u31216 \u20026 
+\f1 \cf2 ClientSocket 
+\f0 \cf2 \uc0\u65292 \u21478 \u19968 \u20010 \u36816 \u34892 \u20110 \u26381 \u21153 \u22120 \u31471 \u65292 \u31216 \u20026 
+\f1 \cf2 ServerSocket 
+\f0 \cf2 \uc0\u12290 
+\f1 \cf2 \
+
+\f0 \cf2 \uc0\u22871 \u25509 \u23383 \u20043 \u38388 \u30340 \u36830 \u25509 \u36807 \u31243 \u20998 \u20026 \u19977 \u20010 \u27493 \u39588 \u65306 \u26381 \u21153 \u22120 \u30417 \u21548 \u65292 \u23458 \u25143 \u31471 \u35831 \u27714 \u65292 \u36830 \u25509 \u30830 \u35748 \u12290 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{930, 943.5}</string>
+														<key>nodeID</key>
+														<string>24060C61-B6D3-4A05-A037-9693E4D7FFD7</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<true/>
+																<key>isDrawingFill</key>
+																<false/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1050, 820.5}</string>
+																<key>nodeID</key>
+																<string>C502AAB6-E3F4-41EB-B2FC-99E55961A2E6</string>
+																<key>strokeColor</key>
+																<string>{0.144, 0.670, 1.000, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;服务器监听：服务器端套接字并不定位具体的客户端套接字，而是处于等待连接的状态，实时监控网络状态，等待客户端的连接请求&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u26381 \u21153 \u22120 \u30417 \u21548 \u65306 \u26381 \u21153 \u22120 \u31471 \u22871 \u25509 \u23383 \u24182 \u19981 \u23450 \u20301 \u20855 \u20307 \u30340 \u23458 \u25143 \u31471 \u22871 \u25509 \u23383 \u65292 \u32780 \u26159 \u22788 \u20110 \u31561 \u24453 \u36830 \u25509 \u30340 \u29366 \u24577 \u65292 \u23454 \u26102 \u30417 \u25511 \u32593 \u32476 \u29366 \u24577 \u65292 \u31561 \u24453 \u23458 \u25143 \u31471 \u30340 \u36830 \u25509 \u35831 \u27714 
+\f1 \cf2  }</string>
+																</dict>
+															</dict>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<true/>
+																<key>isDrawingFill</key>
+																<false/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1050, 880.5}</string>
+																<key>nodeID</key>
+																<string>D2AD8334-0F1E-45F1-A8C2-130D26964A47</string>
+																<key>strokeColor</key>
+																<string>{0.144, 0.670, 1.000, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;客户端请求：指客户端的套接字提出连接请求，要连接的目标是服务器端的套接字。为此，客户端的套接字必须首先描述它要连接的服务器的套接字，指出服务器端套接字的地址和端口号，然后就向服务器端套接字提出连接请求。&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'bf\'cd\'bb\'a7\'b6\'cb\'c7\'eb\'c7\'f3\'a3\'ba\'d6\'b8\'bf\'cd\'bb\'a7\'b6\'cb\'b5\'c4\'cc\'d7\'bd\'d3\'d7\'d6\'cc\'e1\'b3\'f6\'c1\'ac\'bd\'d3\'c7\'eb\'c7\'f3\'a3\'ac\'d2\'aa\'c1\'ac\'bd\'d3\'b5\'c4\'c4\'bf\'b1\'ea\'ca\'c7\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'b5\'c4\'cc\'d7\'bd\'d3\'d7\'d6\'a1\'a3\'ce\'aa\'b4\'cb\'a3\'ac\'bf\'cd\'bb\'a7\'b6\'cb\'b5\'c4\'cc\'d7\'bd\'d3\'d7\'d6\'b1\'d8\'d0\'eb\'ca\'d7\'cf\'c8\'c3\'e8\'ca\'f6\'cb\'fc\'d2\'aa\'c1\'ac\'bd\'d3\'b5\'c4\'b7\'fe\'ce\'f1\'c6\'f7\'b5\'c4\'cc\'d7\'bd\'d3\'d7\'d6\'a3\'ac\'d6\'b8\'b3\'f6\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'b5\'c4\'b5\'d8\'d6\'b7\'ba\'cd\'b6\'cb\'bf\'da\'ba\'c5\'a3\'ac\'c8\'bb\'ba\'f3\'be\'cd\'cf\'f2\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'cc\'e1\'b3\'f6\'c1\'ac\'bd\'d3\'c7\'eb\'c7\'f3\'a1\'a3}</string>
+																</dict>
+															</dict>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<true/>
+																<key>isDrawingFill</key>
+																<false/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1050, 981.5}</string>
+																<key>nodeID</key>
+																<string>C4E8B8FA-2561-4223-9377-27735DE50D6B</string>
+																<key>strokeColor</key>
+																<string>{0.144, 0.670, 1.000, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接确认：当服务器端套接字监听到或者说接收到客户端套接字的连接请求时，就响应客户端套接字的请求，建立一个新的线程，把服务器端套接字的描述发给客户端，一旦客户端确认了此描述，双方就正式建立连接。而服务器端套接字继续处于监听状态，继续接收其他客户端套接字的连接请求。&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'c1\'ac\'bd\'d3\'c8\'b7\'c8\'cf\'a3\'ba\'b5\'b1\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'bc\'e0\'cc\'fd\'b5\'bd\'bb\'f2\'d5\'df\'cb\'b5\'bd\'d3\'ca\'d5\'b5\'bd\'bf\'cd\'bb\'a7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'b5\'c4\'c1\'ac\'bd\'d3\'c7\'eb\'c7\'f3\'ca\'b1\'a3\'ac\'be\'cd\'cf\'ec\'d3\'a6\'bf\'cd\'bb\'a7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'b5\'c4\'c7\'eb\'c7\'f3\'a3\'ac\'bd\'a8\'c1\'a2\'d2\'bb\'b8\'f6\'d0\'c2\'b5\'c4\'cf\'df\'b3\'cc\'a3\'ac\'b0\'d1\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'b5\'c4\'c3\'e8\'ca\'f6\'b7\'a2\'b8\'f8\'bf\'cd\'bb\'a7\'b6\'cb\'a3\'ac\'d2\'bb\'b5\'a9\'bf\'cd\'bb\'a7\'b6\'cb\'c8\'b7\'c8\'cf\'c1\'cb\'b4\'cb\'c3\'e8\'ca\'f6\'a3\'ac\'cb\'ab\'b7\'bd\'be\'cd\'d5\'fd\'ca\'bd\'bd\'a8\'c1\'a2\'c1\'ac\'bd\'d3\'a1\'a3\'b6\'f8\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'bc\'cc\'d0\'f8\'b4\'a6\'d3\'da\'bc\'e0\'cc\'fd\'d7\'b4\'cc\'ac\'a3\'ac\'bc\'cc\'d0\'f8\'bd\'d3\'ca\'d5\'c6\'e4\'cb\'fb\'bf\'cd\'bb\'a7\'b6\'cb\'cc\'d7\'bd\'d3\'d7\'d6\'b5\'c4\'c1\'ac\'bd\'d3\'c7\'eb\'c7\'f3\'a1\'a3}</string>
+																</dict>
+															</dict>
+														</array>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;三个步骤&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'c8\'fd\'b8\'f6\'b2\'bd\'d6\'e8}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;（2）建立&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接：&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u65288 2\u65289 \u24314 \u31435 
+\f1 \cf2 socket
+\f0 \cf2 \uc0\u36830 \u25509 \u65306 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{729, 1122.5}</string>
+												<key>nodeID</key>
+												<string>FD55470A-12AD-4AF8-8931-45D72F3E8A9F</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{965, 1099.5}</string>
+														<key>nodeID</key>
+														<string>AB54272B-42E6-4454-9770-D33085463FF2</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;创建&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接时，可以指定使用的传输层协议，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;可以支持不同的传输层协议（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;或&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;UDP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;），当使用&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议进行连接时，该&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接就是一个&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接。&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 SimSun;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u21019 \u24314 
+\f1 \cf2 Socket
+\f0 \cf2 \uc0\u36830 \u25509 \u26102 \u65292 \u21487 \u20197 \u25351 \u23450 \u20351 \u29992 \u30340 \u20256 \u36755 \u23618 \u21327 \u35758 \u65292 
+\f1 \cf2 Socket
+\f0 \cf2 \uc0\u21487 \u20197 \u25903 \u25345 \u19981 \u21516 \u30340 \u20256 \u36755 \u23618 \u21327 \u35758 \u65288 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u25110 
+\f1 \cf2 UDP
+\f0 \cf2 \uc0\u65289 \u65292 \u24403 \u20351 \u29992 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u21327 \u35758 \u36827 \u34892 \u36830 \u25509 \u26102 \u65292 \u35813 
+\f1 \cf2 Socket
+\f0 \cf2 \uc0\u36830 \u25509 \u23601 \u26159 \u19968 \u20010 
+\f1 \cf2 TCP
+\f0 \cf2 \uc0\u36830 \u25509 \u12290 }</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;（&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;3&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;）&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;SOCKET&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接与&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fnil\fcharset0 Verdana;\f2\fnil\fcharset0 SimSun;
+}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a3\'a8
+\f1 3
+\f0 \'a3\'a9
+\f1 SOCKET
+\f2 \cf2 \uc0\u36830 \u25509 \u19982 
+\f1 \cf2 TCP
+\f2 \cf2 \uc0\u36830 \u25509 }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Socket 原理&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+Socket \'d4\'ad\'c0\'ed}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;【&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;】&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a1\'be
+\f1 Socket
+\f0 \'a1\'bf}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{453, 1274}</string>
+								<key>nodeID</key>
+								<string>D0C2A774-EDD0-407D-A81B-37F42F13C7C3</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{575, 1178.5}</string>
+										<key>nodeID</key>
+										<string>BABB1074-18E3-43DE-9F43-BA5F69DEC536</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;    HTTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议是建立在&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;TCP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;协议之上的一种应用，&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;连接使用的是&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;请求&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;—&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;响应&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;”&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;的方式，不仅在请求时需要先建立连接，而且需要客户端向服务器发出请求后，服务器端才能回复数据。&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;在请求结束后，会主动释放连接。从建立连接到关闭连接的过程称为“一次连接”。由于&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;在每次请求结束后都会主动释放连接，因此&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "SimSun"; -cocoa-font-postscriptname: "SimSun"; '&gt;连接是一种“短连接”，要保持客户端程序的在线状态，需要不断地向服务器发起连接请求。通常的做法是即时不需要获得任何数据，客户端也保持每隔一段固定的时间向服务器发送一次“保持连接”的请求，服务器在收到该请求后对客户端进行回复，表明知道客户端“在线”。若服务器长时间无法收到客户端的请求，则认为客户端“下线”，若客户端长时间无法收到服务器的回复，则认为网络已经断开。&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset0 SimSun;\f2\fnil\fcharset134 PingFangSC-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 HTTP
+\f1 \cf2 \uc0\u21327 \u35758 \u26159 \u24314 \u31435 \u22312 
+\f0 \cf2 TCP
+\f1 \cf2 \uc0\u21327 \u35758 \u20043 \u19978 \u30340 \u19968 \u31181 \u24212 \u29992 \u65292 
+\f0 \cf2 HTTP
+\f2 \'c1\'ac\'bd\'d3\'ca\'b9\'d3\'c3\'b5\'c4\'ca\'c7
+\f0 \'93
+\f2 \'c7\'eb\'c7\'f3
+\f0 \'97
+\f2 \'cf\'ec\'d3\'a6
+\f0 \'94
+\f2 \'b5\'c4\'b7\'bd\'ca\'bd\'a3\'ac\'b2\'bb\'bd\'f6\'d4\'da\'c7\'eb\'c7\'f3\'ca\'b1\'d0\'e8\'d2\'aa\'cf\'c8\'bd\'a8\'c1\'a2\'c1\'ac\'bd\'d3\'a3\'ac\'b6\'f8\'c7\'d2\'d0\'e8\'d2\'aa\'bf\'cd\'bb\'a7\'b6\'cb\'cf\'f2\'b7\'fe\'ce\'f1\'c6\'f7\'b7\'a2\'b3\'f6\'c7\'eb\'c7\'f3\'ba\'f3\'a3\'ac\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'b2\'c5\'c4\'dc\'bb\'d8\'b8\'b4\'ca\'fd\'be\'dd\'a1\'a3
+\f1 \cf2 \uc0\u22312 \u35831 \u27714 \u32467 \u26463 \u21518 \u65292 \u20250 \u20027 \u21160 \u37322 \u25918 \u36830 \u25509 \u12290 \u20174 \u24314 \u31435 \u36830 \u25509 \u21040 \u20851 \u38381 \u36830 \u25509 \u30340 \u36807 \u31243 \u31216 \u20026 \'93\u19968 \u27425 \u36830 \u25509 \'94\u12290 \u30001 \u20110 
+\f0 \cf2 HTTP
+\f1 \cf2 \uc0\u22312 \u27599 \u27425 \u35831 \u27714 \u32467 \u26463 \u21518 \u37117 \u20250 \u20027 \u21160 \u37322 \u25918 \u36830 \u25509 \u65292 \u22240 \u27492 
+\f0 \cf2 HTTP
+\f1 \cf2 \uc0\u36830 \u25509 \u26159 \u19968 \u31181 \'93\u30701 \u36830 \u25509 \'94\u65292 \u35201 \u20445 \u25345 \u23458 \u25143 \u31471 \u31243 \u24207 \u30340 \u22312 \u32447 \u29366 \u24577 \u65292 \u38656 \u35201 \u19981 \u26029 \u22320 \u21521 \u26381 \u21153 \u22120 \u21457 \u36215 \u36830 \u25509 \u35831 \u27714 \u12290 \u36890 \u24120 \u30340 \u20570 \u27861 \u26159 \u21363 \u26102 \u19981 \u38656 \u35201 \u33719 \u24471 \u20219 \u20309 \u25968 \u25454 \u65292 \u23458 \u25143 \u31471 \u20063 \u20445 \u25345 \u27599 \u38548 \u19968 \u27573 \u22266 \u23450 \u30340 \u26102 \u38388 \u21521 \u26381 \u21153 \u22120 \u21457 \u36865 \u19968 \u27425 \'93\u20445 \u25345 \u36830 \u25509 \'94\u30340 \u35831 \u27714 \u65292 \u26381 \u21153 \u22120 \u22312 \u25910 \u21040 \u35813 \u35831 \u27714 \u21518 \u23545 \u23458 \u25143 \u31471 \u36827 \u34892 \u22238 \u22797 \u65292 \u34920 \u26126 \u30693 \u36947 \u23458 \u25143 \u31471 \'93\u22312 \u32447 \'94\u12290 \u33509 \u26381 \u21153 \u22120 \u38271 \u26102 \u38388 \u26080 \u27861 \u25910 \u21040 \u23458 \u25143 \u31471 \u30340 \u35831 \u27714 \u65292 \u21017 \u35748 \u20026 \u23458 \u25143 \u31471 \'93\u19979 \u32447 \'94\u65292 \u33509 \u23458 \u25143 \u31471 \u38271 \u26102 \u38388 \u26080 \u27861 \u25910 \u21040 \u26381 \u21153 \u22120 \u30340 \u22238 \u22797 \u65292 \u21017 \u35748 \u20026 \u32593 \u32476 \u24050 \u32463 \u26029 \u24320 \u12290 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;【&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;Http&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;】&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a1\'be
+\f1 Http
+\f0 \'a1\'bf}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{453, 1462}</string>
+								<key>nodeID</key>
+								<string>17F65520-34A5-419E-8D8A-0CC3A2D9B021</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{597, 1402.5}</string>
+										<key>nodeID</key>
+										<string>881F06D3-C8BD-48BE-80AB-0AA3B96DEF16</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(229, 0, 28, 1.000000); font: bold 12px "Verdana"; -cocoa-font-postscriptname: "Verdana-Bold"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(229, 0, 28, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;很多情况下，需要服务器端主动向客户端推送数据，保持客户端与服务器数据的实时与同步。此时若双方建立的是&lt;/span&gt;&lt;span style='color: rgba(229, 0, 28, 1.000000); font: bold 12px "Verdana"; -cocoa-font-postscriptname: "Verdana-Bold"; '&gt;Socket&lt;/span&gt;&lt;span style='color: rgba(229, 0, 28, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;连接，服务器就可以直接将数据传送给客户端&lt;/span&gt;&lt;span style='color: rgba(229, 0, 28, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;；&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "Verdana"; -cocoa-font-postscriptname: "Verdana-Bold"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;若双方建立的是&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "Verdana"; -cocoa-font-postscriptname: "Verdana-Bold"; '&gt;HTTP&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: bold 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Semibold"; '&gt;连接，则服务器需要等到客户端发送一次请求后才能将数据传回给客户端&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，因此，客户端定时向服务器端发送连接请求，不仅可以保持在线，同时也是在&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;询问&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "Verdana"; -cocoa-font-postscriptname: "Verdana"; '&gt;”&lt;/span&gt;&lt;span style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;服务器是否有新的数据，如果有就将数据传给客户端。&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red229\green0\blue28;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a0 \'a0 
+\f1 \'ba\'dc\'b6\'e0\'c7\'e9\'bf\'f6\'cf\'c2\'a3\'ac\'d0\'e8\'d2\'aa\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'d6\'f7\'b6\'af\'cf\'f2\'bf\'cd\'bb\'a7\'b6\'cb\'cd\'c6\'cb\'cd\'ca\'fd\'be\'dd\'a3\'ac\'b1\'a3\'b3\'d6\'bf\'cd\'bb\'a7\'b6\'cb\'d3\'eb\'b7\'fe\'ce\'f1\'c6\'f7\'ca\'fd\'be\'dd\'b5\'c4\'ca\'b5\'ca\'b1\'d3\'eb\'cd\'ac\'b2\'bd\'a1\'a3\'b4\'cb\'ca\'b1\'c8\'f4\'cb\'ab\'b7\'bd\'bd\'a8\'c1\'a2\'b5\'c4\'ca\'c7
+\f0 Socket
+\f1 \'c1\'ac\'bd\'d3\'a3\'ac\'b7\'fe\'ce\'f1\'c6\'f7\'be\'cd\'bf\'c9\'d2\'d4\'d6\'b1\'bd\'d3\'bd\'ab\'ca\'fd\'be\'dd\'b4\'ab\'cb\'cd\'b8\'f8\'bf\'cd\'bb\'a7\'b6\'cb
+\b0 \'a3\'bb
+\f0\b \cf3 \'a0 \'a0 
+\f1 \'c8\'f4\'cb\'ab\'b7\'bd\'bd\'a8\'c1\'a2\'b5\'c4\'ca\'c7
+\f0 HTTP
+\f1 \'c1\'ac\'bd\'d3\'a3\'ac\'d4\'f2\'b7\'fe\'ce\'f1\'c6\'f7\'d0\'e8\'d2\'aa\'b5\'c8\'b5\'bd\'bf\'cd\'bb\'a7\'b6\'cb\'b7\'a2\'cb\'cd\'d2\'bb\'b4\'ce\'c7\'eb\'c7\'f3\'ba\'f3\'b2\'c5\'c4\'dc\'bd\'ab\'ca\'fd\'be\'dd\'b4\'ab\'bb\'d8\'b8\'f8\'bf\'cd\'bb\'a7\'b6\'cb
+\b0 \cf3 \'a3\'ac\'d2\'f2\'b4\'cb\'a3\'ac\'bf\'cd\'bb\'a7\'b6\'cb\'b6\'a8\'ca\'b1\'cf\'f2\'b7\'fe\'ce\'f1\'c6\'f7\'b6\'cb\'b7\'a2\'cb\'cd\'c1\'ac\'bd\'d3\'c7\'eb\'c7\'f3\'a3\'ac\'b2\'bb\'bd\'f6\'bf\'c9\'d2\'d4\'b1\'a3\'b3\'d6\'d4\'da\'cf\'df\'a3\'ac\'cd\'ac\'ca\'b1\'d2\'b2\'ca\'c7\'d4\'da
+\f0 \'93
+\f1 \'d1\'af\'ce\'ca
+\f0 \'94
+\f1 \'b7\'fe\'ce\'f1\'c6\'f7\'ca\'c7\'b7\'f1\'d3\'d0\'d0\'c2\'b5\'c4\'ca\'fd\'be\'dd\'a3\'ac\'c8\'e7\'b9\'fb\'d3\'d0\'be\'cd\'bd\'ab\'ca\'fd\'be\'dd\'b4\'ab\'b8\'f8\'bf\'cd\'bb\'a7\'b6\'cb\'a1\'a3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(54, 54, 54, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;【适用情况】&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red54\green54\blue54;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\'a1\'be\'ca\'ca\'d3\'c3\'c7\'e9\'bf\'f6\'a1\'bf}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Socket 连接 与HTTP 连接区别&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Socket \'c1\'ac\'bd\'d3 \'d3\'ebHTTP \'c1\'ac\'bd\'d3\'c7\'f8\'b1\'f0}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Light"; '&gt;网络&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'cd\'f8\'c2\'e7}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKfkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26GkoSbnISX
+	lwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpJcAhpKEmZkUTlNWZXJ0aWNh
+	bGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5OU0JvdHRv
+	bU1hcmdpboaSqYaG
+	</data>
+	<key>title</key>
+	<string>网络</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>

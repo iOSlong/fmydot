@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.956, 0.966, 0.956, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{0, 0}</string>
+				<key>nodeID</key>
+				<string>39AF8001-8EC7-4DFA-B387-5FF367773D57</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{263, -542.5}</string>
+						<key>nodeID</key>
+						<string>09076089-66FB-4B23-A874-D9891E27F16C</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{408, -578.5}</string>
+								<key>nodeID</key>
+								<string>FC85D5B0-7F95-4755-AB6A-3A41C87A8548</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>519</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&lt;a href='http://my.oschina.net/u/2340880/blog/522613'&gt;http://my.oschina.net/u/2340880/blog/522613&lt;/a&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://my.oschina.net/u/2340880/blog/522613"}}{\fldrslt 
+\f0\fs36 \cf2 http://my.oschina.net/u/2340880/blog/522613}}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{408, -543.5}</string>
+								<key>nodeID</key>
+								<string>A16CFAA0-3951-47E9-8CA3-3DE79076E1B0</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>652</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&lt;a href='http://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&amp;amp;mid=2655357824&amp;amp;idx=2&amp;amp;sn=503ee2e2dee8a63ae4d39900340c8576&amp;amp;scene=23&amp;amp;srcid=0528xgBCqucZzDlF4Bi51J2T#rd'&gt;http://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&amp;amp;mid=2655357824&amp;amp;idx=2&amp;amp;sn=503ee2e2dee8a63ae4d39900340c8576&amp;amp;scene=23&amp;amp;srcid=0528xgBCqucZzDlF4Bi51J2T#rd&lt;/a&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&amp;mid=2655357824&amp;idx=2&amp;sn=503ee2e2dee8a63ae4d39900340c8576&amp;scene=23&amp;srcid=0528xgBCqucZzDlF4Bi51J2T#rd"}}{\fldrslt 
+\f0\fs36 \cf2 http://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&amp;mid=2655357824&amp;idx=2&amp;sn=503ee2e2dee8a63ae4d39900340c8576&amp;scene=23&amp;srcid=0528xgBCqucZzDlF4Bi51J2T#rd}}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;参考文档&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b2\'ce\'bf\'bc\'ce\'c4\'b5\'b5}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{263, -299.5}</string>
+						<key>nodeID</key>
+						<string>39ECF061-1BC6-4587-BDCF-6B3CDB502D89</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{375, -471.5}</string>
+								<key>nodeID</key>
+								<string>9CDF2A5E-5DD9-441B-B7F4-553CB3096086</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>541</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;UICollectionView是iOS6之后引入的一个新的UI控件，它和UITableView有着诸多的相似之处，其中许多代理方法都十分类似。简单来说，UICollectionView是比UITbleView更加强大的一个UI控件&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 UICollectionView\'ca\'c7iOS6\'d6\'ae\'ba\'f3\'d2\'fd\'c8\'eb\'b5\'c4\'d2\'bb\'b8\'f6\'d0\'c2\'b5\'c4UI\'bf\'d8\'bc\'fe\'a3\'ac\'cb\'fc\'ba\'cdUITableView\'d3\'d0\'d7\'c5\'d6\'ee\'b6\'e0\'b5\'c4\'cf\'e0\'cb\'c6\'d6\'ae\'b4\'a6\'a3\'ac\'c6\'e4\'d6\'d0\'d0\'ed\'b6\'e0\'b4\'fa\'c0\'ed\'b7\'bd\'b7\'a8\'b6\'bc\'ca\'ae\'b7\'d6\'c0\'e0\'cb\'c6\'a1\'a3\'bc\'f2\'b5\'a5\'c0\'b4\'cb\'b5\'a3\'acUICollectionView\'ca\'c7\'b1\'c8UITbleView\'b8\'fc\'bc\'d3\'c7\'bf\'b4\'f3\'b5\'c4\'d2\'bb\'b8\'f6UI\'bf\'d8\'bc\'fe}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{375, -257}</string>
+								<key>nodeID</key>
+								<string>47558F4D-0959-4AD8-9717-28456F8BE524</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{487, -389.5}</string>
+										<key>nodeID</key>
+										<string>0AA85352-8785-4233-8943-F0EB2C6FB81E</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;支持水平和垂直两种方向的布局&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'d6\'a7\'b3\'d6\'cb\'ae\'c6\'bd\'ba\'cd\'b4\'b9\'d6\'b1\'c1\'bd\'d6\'d6\'b7\'bd\'cf\'f2\'b5\'c4\'b2\'bc\'be\'d6}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{487, -351.5}</string>
+										<key>nodeID</key>
+										<string>1714FBA6-8202-4855-B431-CD7B586C33C0</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;通过layout配置方式进行布局&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'cd\'a8\'b9\'fdlayout\'c5\'e4\'d6\'c3\'b7\'bd\'ca\'bd\'bd\'f8\'d0\'d0\'b2\'bc\'be\'d6}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{487, -313.5}</string>
+										<key>nodeID</key>
+										<string>0126F164-07A3-44B5-94C9-5F91195B97CF</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;类似于TableView中的cell特性外，CollectionView中的Item大小和位置可以自由定义&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'c0\'e0\'cb\'c6\'d3\'daTableView\'d6\'d0\'b5\'c4cell\'cc\'d8\'d0\'d4\'cd\'e2\'a3\'acCollectionView\'d6\'d0\'b5\'c4Item\'b4\'f3\'d0\'a1\'ba\'cd\'ce\'bb\'d6\'c3\'bf\'c9\'d2\'d4\'d7\'d4\'d3\'c9\'b6\'a8\'d2\'e5}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{487, -231.5}</string>
+										<key>nodeID</key>
+										<string>88CB3D78-D34F-44D9-AF04-CA6702F42EF3</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;通过layout布局回调的代理方法，可以动态的定制每个item的大小和collection的答题布局属性&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'cd\'a8\'b9\'fdlayout\'b2\'bc\'be\'d6\'bb\'d8\'b5\'f7\'b5\'c4\'b4\'fa\'c0\'ed\'b7\'bd\'b7\'a8\'a3\'ac\'bf\'c9\'d2\'d4\'b6\'af\'cc\'ac\'b5\'c4\'b6\'a8\'d6\'c6\'c3\'bf\'b8\'f6item\'b5\'c4\'b4\'f3\'d0\'a1\'ba\'cdcollection\'b5\'c4\'b4\'f0\'cc\'e2\'b2\'bc\'be\'d6\'ca\'f4\'d0\'d4}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{487, -149.5}</string>
+										<key>nodeID</key>
+										<string>4720765F-3E8B-49C9-8436-3B2579E6535D</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;更加强大一点，完全自定义一套layout布局方案，可以实现意想不到的效果&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'b8\'fc\'bc\'d3\'c7\'bf\'b4\'f3\'d2\'bb\'b5\'e3\'a3\'ac\'cd\'ea\'c8\'ab\'d7\'d4\'b6\'a8\'d2\'e5\'d2\'bb\'cc\'d7layout\'b2\'bc\'be\'d6\'b7\'bd\'b0\'b8\'a3\'ac\'bf\'c9\'d2\'d4\'ca\'b5\'cf\'d6\'d2\'e2\'cf\'eb\'b2\'bb\'b5\'bd\'b5\'c4\'d0\'a7\'b9\'fb}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;特点&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cc\'d8\'b5\'e3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: bold 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTZHK--GBK1-0"; '&gt;简介&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTZHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs32 \cf2 \'bc\'f2\'bd\'e9}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-198, 10.5}</string>
+						<key>nodeID</key>
+						<string>043A1C0F-76CF-4AD6-A767-4A670E098C2B</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1742, -965}</string>
+								<key>nodeID</key>
+								<string>B3CC323E-A7B2-411A-94EC-DBD0423ADBA9</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>1482</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//通过一个布局策略初识化CollectionView&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (instancetype)initWithFrame:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;CGRect&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)frame collectionViewLayout:(UICollectionViewLayout *)layout;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取和设置collection的layout&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;@property&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;nonatomic&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;, &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;strong&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;) UICollectionViewLayout *collectionViewLayout;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//数据源和代理&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;@property&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;nonatomic&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;, &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;weak&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;, nullable) &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;id&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; &amp;lt;UICollectionViewDelegate&amp;gt; delegate;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;@property&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;nonatomic&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;, &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;weak&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;, nullable) &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;id&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; &amp;lt;UICollectionViewDataSource&amp;gt; dataSource;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//从一个class或者xib文件进行cell(item)的注册&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)registerClass:(nullable Class)cellClass forCellWithReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)registerNib:(nullable UINib *)nib forCellWithReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面两个方法与上面相似，这里注册的是头视图或者尾视图的类&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//其中第二个参数是设置 头视图或者尾视图 系统为我们定义好了这两个字符串&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//UIKIT_EXTERN NSString *const UICollectionElementKindSectionHeader NS_AVAILABLE_IOS(6_0);&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//UIKIT_EXTERN NSString *const UICollectionElementKindSectionFooter NS_AVAILABLE_IOS(6_0);&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)registerClass:(nullable Class)viewClass forSupplementaryViewOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)elementKind withReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)registerNib:(nullable UINib *)nib forSupplementaryViewOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)kind withReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//这两个方法是从复用池中取出cell或者头尾视图&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (__kindof UICollectionViewCell *)dequeueReusableCellWithReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier forIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (__kindof UICollectionReusableView *)dequeueReusableSupplementaryViewOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)elementKind withReuseIdentifier:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)identifier forIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//设置是否允许选中 默认yes&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;@property&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;nonatomic&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;) &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; allowsSelection;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//设置是否允许多选 默认no&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;@property&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;nonatomic&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;) &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; allowsMultipleSelection;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取所有选中的item的位置信息&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPathsForSelectedItems; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//设置选中某一item，并使视图滑动到相应位置，scrollPosition是滑动位置的相关参数，如下：&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;/*&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;typedef NS_OPTIONS(NSUInteger, UICollectionViewScrollPosition) {&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    //无&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionNone                 = 0,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    //垂直布局时使用的 对应上中下&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionTop                  = 1 &amp;lt;&amp;lt; 0,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionCenteredVertically   = 1 &amp;lt;&amp;lt; 1,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionBottom               = 1 &amp;lt;&amp;lt; 2,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    //水平布局时使用的  对应左中右&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionLeft                 = 1 &amp;lt;&amp;lt; 3,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionCenteredHorizontally = 1 &amp;lt;&amp;lt; 4,&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;    UICollectionViewScrollPositionRight                = 1 &amp;lt;&amp;lt; 5&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;};&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;*/&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)selectItemAtIndexPath:(nullable &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath animated:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)animated scrollPosition:(UICollectionViewScrollPosition)scrollPosition;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//将某一item取消选中&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)deselectItemAtIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath animated:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)animated;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//重新加载数据&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)reloadData;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面这两个方法，可以重新设置collection的布局，后面的方法多了一个布局完成后的回调，iOS7后可以用&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//使用这两个方法可以产生非常炫酷的动画效果&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)setCollectionViewLayout:(UICollectionViewLayout *)layout animated:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)animated;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)setCollectionViewLayout:(UICollectionViewLayout *)layout animated:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)animated completion:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; (^ __nullable)(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; finished))completion NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;7&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面这些方法更加强大，我们可以对布局更改后的动画进行设置&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//这个方法传入一个布局策略layout，系统会开始进行布局渲染，返回一个UICollectionViewTransitionLayout对象&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//这个UICollectionViewTransitionLayout对象管理动画的相关属性，我们可以进行设置&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (UICollectionViewTransitionLayout *)startInteractiveTransitionToCollectionViewLayout:(UICollectionViewLayout *)layout completion:(nullable UICollectionViewLayoutInteractiveTransitionCompletion)completion NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;7&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//准备好动画设置后，我们需要调用下面的方法进行布局动画的展示，之后会调用上面方法的block回调&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)finishInteractiveTransition NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;7&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//调用这个方法取消上面的布局动画设置，之后也会进行上面方法的block回调&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)cancelInteractiveTransition NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;7&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取分区数&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)numberOfSections;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取某一分区的item数&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)numberOfItemsInSection:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)section;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面两个方法获取item或者头尾视图的layout属性，这个UICollectionViewLayoutAttributes对象&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//存放着布局的相关数据，可以用来做完全自定义布局，后面博客会介绍&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable UICollectionViewLayoutAttributes *)layoutAttributesForSupplementaryElementOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)kind atIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取某一点所在的indexpath位置&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPathForItemAtPoint:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;CGPoint&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)point;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取某个cell所在的indexPath&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable &lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPathForCell:(UICollectionViewCell *)cell;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//根据indexPath获取cell&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (nullable UICollectionViewCell *)cellForItemAtIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取所有可见cell的数组&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;__kindof UICollectionViewCell *&amp;gt; *)visibleCells;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//获取所有可见cell的位置数组&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPathsForVisibleItems;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面三个方法是iOS9中新添加的方法，用于获取头尾视图&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (UICollectionReusableView *)supplementaryViewForElementKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)elementKind atIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;9&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;UICollectionReusableView *&amp;gt; *)visibleSupplementaryViewsOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)elementKind NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;9&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPathsForVisibleSupplementaryElementsOfKind:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSString&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)elementKind NS_AVAILABLE_IOS(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(37, 146, 134, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;9&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;_0);&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//使视图滑动到某一位置，可以带动画效果&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)scrollToItemAtIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath atScrollPosition:(UICollectionViewScrollPosition)scrollPosition animated:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;BOOL&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)animated;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(129, 144, 144, 1.000000); font: 13px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;//下面这些方法用于动态添加，删除，移动某些分区获取items&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)insertSections:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexSet&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)sections;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)deleteSections:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexSet&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)sections;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)reloadSections:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexSet&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)sections;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)moveSection:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)section toSection:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)newSection;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)insertItemsAtIndexPaths:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPaths;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)deleteItemsAtIndexPaths:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPaths;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)reloadItemsAtIndexPaths:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSArray&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *&amp;gt; *)indexPaths;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(115, 138, 4, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;void&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;)moveItemAtIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)indexPath toIndexPath:(&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(33, 118, 199, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='background-color: rgba(252, 244, 220, 1.000000); color: rgba(83, 104, 112, 1.000000); font: 13px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt; *)newIndexPath;&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red129\green144\blue144;\red252\green244\blue220;\red83\green104\blue112;
+\red33\green118\blue199;\red115\green138\blue4;\red37\green146\blue134;}
+{\*\expandedcolortbl;;\csgenericrgb\c50588\c56471\c56471;\csgenericrgb\c98824\c95686\c86275;\csgenericrgb\c32549\c40784\c43922;
+\csgenericrgb\c12941\c46275\c78039;\csgenericrgb\c45098\c54118\c1569;\csgenericrgb\c14510\c57255\c52549;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cd\'a8\'b9\'fd\'d2\'bb\'b8\'f6\'b2\'bc\'be\'d6\'b2\'df\'c2\'d4\'b3\'f5\'ca\'b6\'bb\'afCollectionView
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (instancetype)initWithFrame:(\cf5 \cb3 CGRect\cf4 \cb3 )frame\uc0\u160 collectionViewLayout:(UICollectionViewLayout\u160 *)layout;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'ba\'cd\'c9\'e8\'d6\'c3collection\'b5\'c4layout
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf6 \cb3 @property\cf4 \cb3 \uc0\u160 (\cf6 \cb3 nonatomic\cf4 \cb3 ,\uc0\u160 \cf6 \cb3 strong\cf4 \cb3 )\uc0\u160 UICollectionViewLayout\u160 *collectionViewLayout;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'ca\'fd\'be\'dd\'d4\'b4\'ba\'cd\'b4\'fa\'c0\'ed
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf6 \cb3 @property\cf4 \cb3 \uc0\u160 (\cf6 \cb3 nonatomic\cf4 \cb3 ,\uc0\u160 \cf6 \cb3 weak\cf4 \cb3 ,\uc0\u160 nullable)\u160 \cf6 \cb3 id\cf4 \cb3 \uc0\u160 &lt;UICollectionViewDelegate&gt;\u160 delegate;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf6 \cb3 @property\cf4 \cb3 \uc0\u160 (\cf6 \cb3 nonatomic\cf4 \cb3 ,\uc0\u160 \cf6 \cb3 weak\cf4 \cb3 ,\uc0\u160 nullable)\u160 \cf6 \cb3 id\cf4 \cb3 \uc0\u160 &lt;UICollectionViewDataSource&gt;\u160 dataSource;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'b4\'d3\'d2\'bb\'b8\'f6class\'bb\'f2\'d5\'dfxib\'ce\'c4\'bc\'fe\'bd\'f8\'d0\'d0cell(item)\'b5\'c4\'d7\'a2\'b2\'e1
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )registerClass:(nullable\uc0\u160 Class)cellClass\u160 forCellWithReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )registerNib:(nullable\uc0\u160 UINib\u160 *)nib\u160 forCellWithReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'c1\'bd\'b8\'f6\'b7\'bd\'b7\'a8\'d3\'eb\'c9\'cf\'c3\'e6\'cf\'e0\'cb\'c6\'a3\'ac\'d5\'e2\'c0\'ef\'d7\'a2\'b2\'e1\'b5\'c4\'ca\'c7\'cd\'b7\'ca\'d3\'cd\'bc\'bb\'f2\'d5\'df\'ce\'b2\'ca\'d3\'cd\'bc\'b5\'c4\'c0\'e0
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //\'c6\'e4\'d6\'d0\'b5\'da\'b6\'fe\'b8\'f6\'b2\'ce\'ca\'fd\'ca\'c7\'c9\'e8\'d6\'c3\uc0\u160 \'cd\'b7\'ca\'d3\'cd\'bc\'bb\'f2\'d5\'df\'ce\'b2\'ca\'d3\'cd\'bc\u160 \'cf\'b5\'cd\'b3\'ce\'aa\'ce\'d2\'c3\'c7\'b6\'a8\'d2\'e5\'ba\'c3\'c1\'cb\'d5\'e2\'c1\'bd\'b8\'f6\'d7\'d6\'b7\'fb\'b4\'ae
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //UIKIT_EXTERN\uc0\u160 NSString\u160 *const\u160 UICollectionElementKindSectionHeader\u160 NS_AVAILABLE_IOS(6_0);
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //UIKIT_EXTERN\uc0\u160 NSString\u160 *const\u160 UICollectionElementKindSectionFooter\u160 NS_AVAILABLE_IOS(6_0);
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )registerClass:(nullable\uc0\u160 Class)viewClass\u160 forSupplementaryViewOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)elementKind\u160 withReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )registerNib:(nullable\uc0\u160 UINib\u160 *)nib\u160 forSupplementaryViewOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)kind\u160 withReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'d5\'e2\'c1\'bd\'b8\'f6\'b7\'bd\'b7\'a8\'ca\'c7\'b4\'d3\'b8\'b4\'d3\'c3\'b3\'d8\'d6\'d0\'c8\'a1\'b3\'f6cell\'bb\'f2\'d5\'df\'cd\'b7\'ce\'b2\'ca\'d3\'cd\'bc
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (__kindof\u160 UICollectionViewCell\u160 *)dequeueReusableCellWithReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier\u160 forIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (__kindof\u160 UICollectionReusableView\u160 *)dequeueReusableSupplementaryViewOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)elementKind\u160 withReuseIdentifier:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)identifier\u160 forIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'c9\'e8\'d6\'c3\'ca\'c7\'b7\'f1\'d4\'ca\'d0\'ed\'d1\'a1\'d6\'d0\uc0\u160 \'c4\'ac\'c8\'cfyes
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf6 \cb3 @property\cf4 \cb3 \uc0\u160 (\cf6 \cb3 nonatomic\cf4 \cb3 )\uc0\u160 \cf5 \cb3 BOOL\cf4 \cb3 \uc0\u160 allowsSelection;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'c9\'e8\'d6\'c3\'ca\'c7\'b7\'f1\'d4\'ca\'d0\'ed\'b6\'e0\'d1\'a1\uc0\u160 \'c4\'ac\'c8\'cfno
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf6 \cb3 @property\cf4 \cb3 \uc0\u160 (\cf6 \cb3 nonatomic\cf4 \cb3 )\uc0\u160 \cf5 \cb3 BOOL\cf4 \cb3 \uc0\u160 allowsMultipleSelection;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'cb\'f9\'d3\'d0\'d1\'a1\'d6\'d0\'b5\'c4item\'b5\'c4\'ce\'bb\'d6\'c3\'d0\'c5\'cf\'a2
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 \cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPathsForSelectedItems;\u160 
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'c9\'e8\'d6\'c3\'d1\'a1\'d6\'d0\'c4\'b3\'d2\'bbitem\'a3\'ac\'b2\'a2\'ca\'b9\'ca\'d3\'cd\'bc\'bb\'ac\'b6\'af\'b5\'bd\'cf\'e0\'d3\'a6\'ce\'bb\'d6\'c3\'a3\'acscrollPosition\'ca\'c7\'bb\'ac\'b6\'af\'ce\'bb\'d6\'c3\'b5\'c4\'cf\'e0\'b9\'d8\'b2\'ce\'ca\'fd\'a3\'ac\'c8\'e7\'cf\'c2\'a3\'ba
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 /*
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 typedef\uc0\u160 NS_OPTIONS(NSUInteger,\u160 UICollectionViewScrollPosition)\u160 \{
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 //\'ce\'de
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionNone\u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 =\u160 0,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 //\'b4\'b9\'d6\'b1\'b2\'bc\'be\'d6\'ca\'b1\'ca\'b9\'d3\'c3\'b5\'c4\u160 \'b6\'d4\'d3\'a6\'c9\'cf\'d6\'d0\'cf\'c2
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionTop\u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 =\u160 1\u160 &lt;&lt;\u160 0,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionCenteredVertically\u160 \u160 \u160 =\u160 1\u160 &lt;&lt;\u160 1,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionBottom\u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 =\u160 1\u160 &lt;&lt;\u160 2,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 //\'cb\'ae\'c6\'bd\'b2\'bc\'be\'d6\'ca\'b1\'ca\'b9\'d3\'c3\'b5\'c4\u160 \u160 \'b6\'d4\'d3\'a6\'d7\'f3\'d6\'d0\'d3\'d2
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionLeft\u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 =\u160 1\u160 &lt;&lt;\u160 3,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionCenteredHorizontally\u160 =\u160 1\u160 &lt;&lt;\u160 4,
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \uc0\u160 \u160 \u160 \u160 UICollectionViewScrollPositionRight\u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 \u160 =\u160 1\u160 &lt;&lt;\u160 5
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 \};
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 */
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )selectItemAtIndexPath:(nullable\uc0\u160 \cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath\u160 animated:(\cf5 \cb3 BOOL\cf4 \cb3 )animated\uc0\u160 scrollPosition:(UICollectionViewScrollPosition)scrollPosition;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bd\'ab\'c4\'b3\'d2\'bbitem\'c8\'a1\'cf\'fb\'d1\'a1\'d6\'d0
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )deselectItemAtIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath\u160 animated:(\cf5 \cb3 BOOL\cf4 \cb3 )animated;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'d6\'d8\'d0\'c2\'bc\'d3\'d4\'d8\'ca\'fd\'be\'dd
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )reloadData;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'d5\'e2\'c1\'bd\'b8\'f6\'b7\'bd\'b7\'a8\'a3\'ac\'bf\'c9\'d2\'d4\'d6\'d8\'d0\'c2\'c9\'e8\'d6\'c3collection\'b5\'c4\'b2\'bc\'be\'d6\'a3\'ac\'ba\'f3\'c3\'e6\'b5\'c4\'b7\'bd\'b7\'a8\'b6\'e0\'c1\'cb\'d2\'bb\'b8\'f6\'b2\'bc\'be\'d6\'cd\'ea\'b3\'c9\'ba\'f3\'b5\'c4\'bb\'d8\'b5\'f7\'a3\'aciOS7\'ba\'f3\'bf\'c9\'d2\'d4\'d3\'c3
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //\'ca\'b9\'d3\'c3\'d5\'e2\'c1\'bd\'b8\'f6\'b7\'bd\'b7\'a8\'bf\'c9\'d2\'d4\'b2\'fa\'c9\'fa\'b7\'c7\'b3\'a3\'ec\'c5\'bf\'e1\'b5\'c4\'b6\'af\'bb\'ad\'d0\'a7\'b9\'fb
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )setCollectionViewLayout:(UICollectionViewLayout\uc0\u160 *)layout\u160 animated:(\cf5 \cb3 BOOL\cf4 \cb3 )animated;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )setCollectionViewLayout:(UICollectionViewLayout\uc0\u160 *)layout\u160 animated:(\cf5 \cb3 BOOL\cf4 \cb3 )animated\uc0\u160 completion:(\cf6 \cb3 void\cf4 \cb3 \uc0\u160 (^\u160 __nullable)(\cf5 \cb3 BOOL\cf4 \cb3 \uc0\u160 finished))completion\u160 NS_AVAILABLE_IOS(\cf7 \cb3 7\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'d5\'e2\'d0\'a9\'b7\'bd\'b7\'a8\'b8\'fc\'bc\'d3\'c7\'bf\'b4\'f3\'a3\'ac\'ce\'d2\'c3\'c7\'bf\'c9\'d2\'d4\'b6\'d4\'b2\'bc\'be\'d6\'b8\'fc\'b8\'c4\'ba\'f3\'b5\'c4\'b6\'af\'bb\'ad\'bd\'f8\'d0\'d0\'c9\'e8\'d6\'c3
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //\'d5\'e2\'b8\'f6\'b7\'bd\'b7\'a8\'b4\'ab\'c8\'eb\'d2\'bb\'b8\'f6\'b2\'bc\'be\'d6\'b2\'df\'c2\'d4layout\'a3\'ac\'cf\'b5\'cd\'b3\'bb\'e1\'bf\'aa\'ca\'bc\'bd\'f8\'d0\'d0\'b2\'bc\'be\'d6\'e4\'d6\'c8\'be\'a3\'ac\'b7\'b5\'bb\'d8\'d2\'bb\'b8\'f6UICollectionViewTransitionLayout\'b6\'d4\'cf\'f3
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //\'d5\'e2\'b8\'f6UICollectionViewTransitionLayout\'b6\'d4\'cf\'f3\'b9\'dc\'c0\'ed\'b6\'af\'bb\'ad\'b5\'c4\'cf\'e0\'b9\'d8\'ca\'f4\'d0\'d4\'a3\'ac\'ce\'d2\'c3\'c7\'bf\'c9\'d2\'d4\'bd\'f8\'d0\'d0\'c9\'e8\'d6\'c3
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (UICollectionViewTransitionLayout\u160 *)startInteractiveTransitionToCollectionViewLayout:(UICollectionViewLayout\u160 *)layout\u160 completion:(nullable\u160 UICollectionViewLayoutInteractiveTransitionCompletion)completion\u160 NS_AVAILABLE_IOS(\cf7 \cb3 7\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'d7\'bc\'b1\'b8\'ba\'c3\'b6\'af\'bb\'ad\'c9\'e8\'d6\'c3\'ba\'f3\'a3\'ac\'ce\'d2\'c3\'c7\'d0\'e8\'d2\'aa\'b5\'f7\'d3\'c3\'cf\'c2\'c3\'e6\'b5\'c4\'b7\'bd\'b7\'a8\'bd\'f8\'d0\'d0\'b2\'bc\'be\'d6\'b6\'af\'bb\'ad\'b5\'c4\'d5\'b9\'ca\'be\'a3\'ac\'d6\'ae\'ba\'f3\'bb\'e1\'b5\'f7\'d3\'c3\'c9\'cf\'c3\'e6\'b7\'bd\'b7\'a8\'b5\'c4block\'bb\'d8\'b5\'f7
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )finishInteractiveTransition\uc0\u160 NS_AVAILABLE_IOS(\cf7 \cb3 7\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'b5\'f7\'d3\'c3\'d5\'e2\'b8\'f6\'b7\'bd\'b7\'a8\'c8\'a1\'cf\'fb\'c9\'cf\'c3\'e6\'b5\'c4\'b2\'bc\'be\'d6\'b6\'af\'bb\'ad\'c9\'e8\'d6\'c3\'a3\'ac\'d6\'ae\'ba\'f3\'d2\'b2\'bb\'e1\'bd\'f8\'d0\'d0\'c9\'cf\'c3\'e6\'b7\'bd\'b7\'a8\'b5\'c4block\'bb\'d8\'b5\'f7
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )cancelInteractiveTransition\uc0\u160 NS_AVAILABLE_IOS(\cf7 \cb3 7\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'b7\'d6\'c7\'f8\'ca\'fd
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSInteger\cf4 \cb3 )numberOfSections;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'c4\'b3\'d2\'bb\'b7\'d6\'c7\'f8\'b5\'c4item\'ca\'fd
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSInteger\cf4 \cb3 )numberOfItemsInSection:(\cf5 \cb3 NSInteger\cf4 \cb3 )section;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'c1\'bd\'b8\'f6\'b7\'bd\'b7\'a8\'bb\'f1\'c8\'a1item\'bb\'f2\'d5\'df\'cd\'b7\'ce\'b2\'ca\'d3\'cd\'bc\'b5\'c4layout\'ca\'f4\'d0\'d4\'a3\'ac\'d5\'e2\'b8\'f6UICollectionViewLayoutAttributes\'b6\'d4\'cf\'f3
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf2 \cb3 //\'b4\'e6\'b7\'c5\'d7\'c5\'b2\'bc\'be\'d6\'b5\'c4\'cf\'e0\'b9\'d8\'ca\'fd\'be\'dd\'a3\'ac\'bf\'c9\'d2\'d4\'d3\'c3\'c0\'b4\'d7\'f6\'cd\'ea\'c8\'ab\'d7\'d4\'b6\'a8\'d2\'e5\'b2\'bc\'be\'d6\'a3\'ac\'ba\'f3\'c3\'e6\'b2\'a9\'bf\'cd\'bb\'e1\'bd\'e9\'c9\'dc
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 UICollectionViewLayoutAttributes\u160 *)layoutAttributesForItemAtIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 UICollectionViewLayoutAttributes\u160 *)layoutAttributesForSupplementaryElementOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)kind\u160 atIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'c4\'b3\'d2\'bb\'b5\'e3\'cb\'f9\'d4\'da\'b5\'c4indexpath\'ce\'bb\'d6\'c3
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 \cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPathForItemAtPoint:(\cf5 \cb3 CGPoint\cf4 \cb3 )point;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'c4\'b3\'b8\'f6cell\'cb\'f9\'d4\'da\'b5\'c4indexPath
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 \cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPathForCell:(UICollectionViewCell\u160 *)cell;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'b8\'f9\'be\'ddindexPath\'bb\'f1\'c8\'a1cell
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (nullable\u160 UICollectionViewCell\u160 *)cellForItemAtIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'cb\'f9\'d3\'d0\'bf\'c9\'bc\'fbcell\'b5\'c4\'ca\'fd\'d7\'e9
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSArray\cf4 \cb3 &lt;__kindof\uc0\u160 UICollectionViewCell\u160 *&gt;\u160 *)visibleCells;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'bb\'f1\'c8\'a1\'cb\'f9\'d3\'d0\'bf\'c9\'bc\'fbcell\'b5\'c4\'ce\'bb\'d6\'c3\'ca\'fd\'d7\'e9
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPathsForVisibleItems;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'c8\'fd\'b8\'f6\'b7\'bd\'b7\'a8\'ca\'c7iOS9\'d6\'d0\'d0\'c2\'cc\'ed\'bc\'d3\'b5\'c4\'b7\'bd\'b7\'a8\'a3\'ac\'d3\'c3\'d3\'da\'bb\'f1\'c8\'a1\'cd\'b7\'ce\'b2\'ca\'d3\'cd\'bc
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (UICollectionReusableView\u160 *)supplementaryViewForElementKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)elementKind\u160 atIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath\u160 NS_AVAILABLE_IOS(\cf7 \cb3 9\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSArray\cf4 \cb3 &lt;UICollectionReusableView\uc0\u160 *&gt;\u160 *)visibleSupplementaryViewsOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)elementKind\u160 NS_AVAILABLE_IOS(\cf7 \cb3 9\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPathsForVisibleSupplementaryElementsOfKind:(\cf5 \cb3 NSString\cf4 \cb3 \uc0\u160 *)elementKind\u160 NS_AVAILABLE_IOS(\cf7 \cb3 9\cf4 \cb3 _0);
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'ca\'b9\'ca\'d3\'cd\'bc\'bb\'ac\'b6\'af\'b5\'bd\'c4\'b3\'d2\'bb\'ce\'bb\'d6\'c3\'a3\'ac\'bf\'c9\'d2\'d4\'b4\'f8\'b6\'af\'bb\'ad\'d0\'a7\'b9\'fb
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )scrollToItemAtIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath\u160 atScrollPosition:(UICollectionViewScrollPosition)scrollPosition\u160 animated:(\cf5 \cb3 BOOL\cf4 \cb3 )animated;
+\f1\fs24 \cf0 \cb1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 \cb3 //\'cf\'c2\'c3\'e6\'d5\'e2\'d0\'a9\'b7\'bd\'b7\'a8\'d3\'c3\'d3\'da\'b6\'af\'cc\'ac\'cc\'ed\'bc\'d3\'a3\'ac\'c9\'be\'b3\'fd\'a3\'ac\'d2\'c6\'b6\'af\'c4\'b3\'d0\'a9\'b7\'d6\'c7\'f8\'bb\'f1\'c8\'a1items
+\f1\fs24 \cf0 \cb1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )insertSections:(\cf5 \cb3 NSIndexSet\cf4 \cb3 \uc0\u160 *)sections;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )deleteSections:(\cf5 \cb3 NSIndexSet\cf4 \cb3 \uc0\u160 *)sections;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )reloadSections:(\cf5 \cb3 NSIndexSet\cf4 \cb3 \uc0\u160 *)sections;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )moveSection:(\cf5 \cb3 NSInteger\cf4 \cb3 )section\uc0\u160 toSection:(\cf5 \cb3 NSInteger\cf4 \cb3 )newSection;
+\f1\fs24 \cf0 \cb1 \
+\
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )insertItemsAtIndexPaths:(\cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPaths;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )deleteItemsAtIndexPaths:(\cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPaths;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )reloadItemsAtIndexPaths:(\cf5 \cb3 NSArray\cf4 \cb3 &lt;\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *&gt;\u160 *)indexPaths;
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs26 \cf4 \cb3 -\uc0\u160 (\cf6 \cb3 void\cf4 \cb3 )moveItemAtIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)indexPath\u160 toIndexPath:(\cf5 \cb3 NSIndexPath\cf4 \cb3 \uc0\u160 *)newIndexPath;}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;常用方法和属性&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b3\'a3\'d3\'c3\'b7\'bd\'b7\'a8\'ba\'cd\'ca\'f4\'d0\'d4}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{263, 255}</string>
+						<key>nodeID</key>
+						<string>A6E5D9F0-ECA3-4E9E-83EC-CCBFDF5B9782</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{426, 39.5}</string>
+								<key>nodeID</key>
+								<string>F2615E4C-75B0-4BC7-B7A7-8198539ABA25</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{551, -89.5}</string>
+										<key>nodeID</key>
+										<string>08247746-7536-4200-AE95-2CC1D725B537</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>578</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建一个&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;layout&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;布局类&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewFlowLayout&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *layout = [[&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewFlowLayout&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;alloc&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;] &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;init&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;设置布局滚动方向为&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; Horizontal-&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;水平滚动&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;   Vertical-&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;垂直滚动&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;注意：如果是&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Vertical&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的则&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;是水平布局排列，如果是&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Horizontal&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;则&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;是垂直布局排列&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    layout.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;scrollDirection&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; = &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewScrollDirectionVertical&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;设置每一个&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;item&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的大小&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    layout.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;itemSize&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;     = &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGSizeMake&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(150, 180);&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     \cf2 //
+\f1 \cf2 \'b4\'b4\'bd\'a8\'d2\'bb\'b8\'f6
+\f0 \cf2 layout
+\f1 \cf2 \'b2\'bc\'be\'d6\'c0\'e0
+\f2\fs24 \cf0 \
+
+\f0\fs22     \cf3 UICollectionViewFlowLayout\cf0  *layout = [[\cf3 UICollectionViewFlowLayout\cf0  \cf3 alloc\cf0 ] \cf3 init\cf0 ];
+\f2\fs24 \
+
+\f0\fs22     \cf2 //
+\f1 \cf2 \'c9\'e8\'d6\'c3\'b2\'bc\'be\'d6\'b9\'f6\'b6\'af\'b7\'bd\'cf\'f2\'ce\'aa
+\f0 \cf2  Horizontal-
+\f1 \cf2 \'cb\'ae\'c6\'bd\'b9\'f6\'b6\'af
+\f0 \cf2    Vertical-
+\f1 \cf2 \'b4\'b9\'d6\'b1\'b9\'f6\'b6\'af
+\f2\fs24 \cf0 \
+
+\f0\fs22     \cf2 //
+\f1 \cf2 \'d7\'a2\'d2\'e2\'a3\'ba\'c8\'e7\'b9\'fb\'ca\'c7
+\f0 \cf2 Vertical
+\f1 \cf2 \'b5\'c4\'d4\'f2
+\f0 \cf2 cell
+\f1 \cf2 \'ca\'c7\'cb\'ae\'c6\'bd\'b2\'bc\'be\'d6\'c5\'c5\'c1\'d0\'a3\'ac\'c8\'e7\'b9\'fb\'ca\'c7
+\f0 \cf2 Horizontal
+\f1 \cf2 \'d4\'f2
+\f0 \cf2 cell
+\f1 \cf2 \'ca\'c7\'b4\'b9\'d6\'b1\'b2\'bc\'be\'d6\'c5\'c5\'c1\'d0
+\f2\fs24 \cf0 \
+
+\f0\fs22     layout.\cf3 scrollDirection\cf0  = \cf3 UICollectionViewScrollDirectionVertical\cf0 ;
+\f2\fs24 \
+
+\f0\fs22     \cf2 //
+\f1 \cf2 \'c9\'e8\'d6\'c3\'c3\'bf\'d2\'bb\'b8\'f6
+\f0 \cf2 item
+\f1 \cf2 \'b5\'c4\'b4\'f3\'d0\'a1
+\f2\fs24 \cf0 \
+
+\f0\fs22     layout.\cf3 itemSize\cf0      = \cf3 CGSizeMake\cf0 (150, 180);}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{551, 17.5}</string>
+										<key>nodeID</key>
+										<string>8FB722AA-7178-48DC-A4A7-96B7853D807D</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>521</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建一个&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;collectionView&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，通过布局策略来创建&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionView&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *collectionView    = [[&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionView&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;alloc&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;] &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;initWithFrame&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;view&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;bounds&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;collectionViewLayout&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:layout];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;设置代理&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    collectionView.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dataSource&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;   = &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    collectionView.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;delegate&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;     = &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;\red0\green0\blue255;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;\csgenericrgb\c0\c0\c100000;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf2 //
+\f1 \cf2 \'b4\'b4\'bd\'a8\'d2\'bb\'b8\'f6
+\f0 \cf2 collectionView
+\f1 \cf2 \'a3\'ac\'cd\'a8\'b9\'fd\'b2\'bc\'be\'d6\'b2\'df\'c2\'d4\'c0\'b4\'b4\'b4\'bd\'a8
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     \cf3 UICollectionView\cf0  *collectionView    = [[\cf3 UICollectionView\cf0  \cf3 alloc\cf0 ] \cf3 initWithFrame\cf0 :\cf4 self\cf0 .\cf3 view\cf0 .\cf3 bounds\cf0  \cf3 collectionViewLayout\cf0 :layout];
+\f2\fs24 \
+
+\f0\fs22     \cf2 //
+\f1 \cf2 \'c9\'e8\'d6\'c3\'b4\'fa\'c0\'ed
+\f2\fs24 \cf0 \
+
+\f0\fs22     collectionView.\cf3 dataSource\cf0    = \cf4 self\cf0 ;
+\f2\fs24 \
+
+\f0\fs22     collectionView.\cf3 delegate\cf0      = \cf4 self\cf0 ;}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{551, 111.5}</string>
+										<key>nodeID</key>
+										<string>B345F7E8-4E9E-479F-982D-B872D428CDB6</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>506</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;注册&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;item&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;类型，这里使用系统的&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;类型&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;注意：&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;collectionView&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在完成代理之前必须要注册一个&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell)&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [collectionView &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;registerClass&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:[&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewCell&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;class&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;] &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;forCellWithReuseIdentifier&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(163, 21, 21, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@&amp;quot;cellId&amp;quot;&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [&lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;view&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;addSubview&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:collectionView];&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;\red163\green21\blue21;
+\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;\csgenericrgb\c63922\c8235\c8235;
+\csgenericrgb\c0\c0\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     \cf2 //
+\f1 \cf2 \'d7\'a2\'b2\'e1
+\f0 \cf2 item
+\f1 \cf2 \'c0\'e0\'d0\'cd\'a3\'ac\'d5\'e2\'c0\'ef\'ca\'b9\'d3\'c3\'cf\'b5\'cd\'b3\'b5\'c4
+\f0 \cf2 cell
+\f1 \cf2 \'c0\'e0\'d0\'cd
+\f0 \cf2 (
+\f1 \cf2 \'d7\'a2\'d2\'e2\'a3\'ba
+\f0 \cf2 collectionView
+\f1 \cf2 \'d4\'da\'cd\'ea\'b3\'c9\'b4\'fa\'c0\'ed\'d6\'ae\'c7\'b0\'b1\'d8\'d0\'eb\'d2\'aa\'d7\'a2\'b2\'e1\'d2\'bb\'b8\'f6
+\f0 \cf2 cell)
+\f2\fs24 \cf0 \
+
+\f0\fs22     [collectionView \cf3 registerClass\cf0 :[\cf3 UICollectionViewCell\cf0  \cf3 class\cf0 ] \cf3 forCellWithReuseIdentifier\cf0 :\cf4 @"cellId"\cf0 ];
+\f2\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     [\cf5 self\cf0 .\cf3 view\cf0  \cf3 addSubview\cf0 :collectionView];}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Lantinghei SC"; text-align: left; -cocoa-font-postscriptname: "FZLTXHK--GBK1-0"; '&gt;流布局 &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 FZLTXHK--GBK1-0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32 \cf2 \'c1\'f7\'b2\'bc\'be\'d6 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{426, 403}</string>
+								<key>nodeID</key>
+								<string>BD39F542-2803-4CAE-BBE4-41C9E4C98E43</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{538, 206.5}</string>
+										<key>nodeID</key>
+										<string>AB491A0F-6131-484D-9989-AC3758E34D9F</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>426</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;返回分区的条数&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;-(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)numberOfSectionsInCollectionView:(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionView&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *)collectionView{&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;return&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; 2;&lt;/span&gt;&lt;/p&gt;&lt;p style='font: 11px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;}&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;\red0\green0\blue255;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;\csgenericrgb\c0\c0\c100000;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf2 //
+\f1 \cf2 \'b7\'b5\'bb\'d8\'b7\'d6\'c7\'f8\'b5\'c4\'cc\'f5\'ca\'fd
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0 -(\cf3 NSInteger\cf0 )numberOfSectionsInCollectionView:(\cf3 UICollectionView\cf0  *)collectionView\{
+\f2\fs24 \
+
+\f0\fs22     \cf4 return\cf0  2;
+\f2\fs24 \
+
+\f0\fs22 \}}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{538, 287.5}</string>
+										<key>nodeID</key>
+										<string>99868685-DD59-4CC9-BAA5-FB4E6DAE7A8F</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>428</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;返回每一个分区的&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;item&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;数目&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;-(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)collectionView:(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionView&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *)collectionView numberOfItemsInSection:(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSInteger&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)section{&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;return&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; 4;&lt;/span&gt;&lt;/p&gt;&lt;p style='font: 11px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;}&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;\red0\green0\blue255;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;\csgenericrgb\c0\c0\c100000;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf2 //
+\f1 \cf2 \'b7\'b5\'bb\'d8\'c3\'bf\'d2\'bb\'b8\'f6\'b7\'d6\'c7\'f8\'b5\'c4
+\f0 \cf2 item
+\f1 \cf2 \'ca\'fd\'c4\'bf
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0 -(\cf3 NSInteger\cf0 )collectionView:(\cf3 UICollectionView\cf0  *)collectionView numberOfItemsInSection:(\cf3 NSInteger\cf0 )section\{
+\f2\fs24 \
+
+\f0\fs22     \cf4 return\cf0  4;
+\f2\fs24 \
+
+\f0\fs22 \}}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{538, 368.5}</string>
+										<key>nodeID</key>
+										<string>89A05CF2-A010-4287-9660-EFEAE126A5E4</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>514</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;返回item&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;-(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewCell&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *)collectionView:(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionView&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *)collectionView cellForItemAtIndexPath:(&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSIndexPath&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *)indexPath{&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;注意，&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;collectionView&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;只有一种实现&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;回调的方法，就是只能从复用池中返回&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;而不能返回新建的&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;cell&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UICollectionViewCell&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; *cell = [collectionView &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dequeueReusableCellWithReuseIdentifier&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(163, 21, 21, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@&amp;quot;cellId&amp;quot;&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;forIndexPath&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:indexPath];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    cell.&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;backgroundColor&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; = [&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UIColor&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;colorWithRed&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;arc4random&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;()%255/255.0 &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;green&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;arc4random&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;()%255/255.0 &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;blue&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;arc4random&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;()%255/255.0 &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;alpha&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:1];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;return&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; cell;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(0, 128, 0, 1.000000); font: 11px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;使用下面的方法会导致崩溃&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;#if &lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;0&lt;/span&gt;&lt;/p&gt;&lt;p style='font: 11px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    UICollectionViewCell *cell = [[UICollectionViewCell alloc] init];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;   &lt;/span&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;return&lt;/span&gt;&lt;span style='font: 11px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; cell;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 255, 1.000000); font: 11px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;#endif&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='font: 11px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;}&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red43\green131\blue159;\red163\green21\blue21;
+\red0\green0\blue255;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;\csgenericrgb\c16863\c51373\c62353;\csgenericrgb\c63922\c8235\c8235;
+\csgenericrgb\c0\c0\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf2 //
+\f1 \cf2 \'b7\'b5\'bb\'d8item
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0 -(\cf3 UICollectionViewCell\cf0  *)collectionView:(\cf3 UICollectionView\cf0  *)collectionView cellForItemAtIndexPath:(\cf3 NSIndexPath\cf0  *)indexPath\{
+\f2\fs24 \
+
+\f0\fs22     \cf2 //
+\f1 \cf2 \'d7\'a2\'d2\'e2\'a3\'ac
+\f0 \cf2 collectionView
+\f1 \cf2 \'d6\'bb\'d3\'d0\'d2\'bb\'d6\'d6\'ca\'b5\'cf\'d6
+\f0 \cf2 cell
+\f1 \cf2 \'bb\'d8\'b5\'f7\'b5\'c4\'b7\'bd\'b7\'a8\'a3\'ac\'be\'cd\'ca\'c7\'d6\'bb\'c4\'dc\'b4\'d3\'b8\'b4\'d3\'c3\'b3\'d8\'d6\'d0\'b7\'b5\'bb\'d8
+\f0 \cf2 cell
+\f1 \cf2 \'b6\'f8\'b2\'bb\'c4\'dc\'b7\'b5\'bb\'d8\'d0\'c2\'bd\'a8\'b5\'c4
+\f0 \cf2 cell
+\f2\fs24 \cf0 \
+
+\f0\fs22     \cf3 UICollectionViewCell\cf0  *cell = [collectionView \cf3 dequeueReusableCellWithReuseIdentifier\cf0 :\cf4 @"cellId"\cf0  \cf3 forIndexPath\cf0 :indexPath];
+\f2\fs24 \
+
+\f0\fs22     cell.\cf3 backgroundColor\cf0  = [\cf3 UIColor\cf0  \cf3 colorWithRed\cf0 :\cf3 arc4random\cf0 ()%255/255.0 \cf3 green\cf0 :\cf3 arc4random\cf0 ()%255/255.0 \cf3 blue\cf0 :\cf3 arc4random\cf0 ()%255/255.0 \cf3 alpha\cf0 :1];
+\f2\fs24 \
+
+\f0\fs22     \cf5 return\cf0  cell;
+\f2\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     \cf2 //
+\f1 \cf2 \'ca\'b9\'d3\'c3\'cf\'c2\'c3\'e6\'b5\'c4\'b7\'bd\'b7\'a8\'bb\'e1\'b5\'bc\'d6\'c2\'b1\'c0\'c0\'a3
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf5 #if \cf0 0
+\f2\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0     UICollectionViewCell *cell = [[UICollectionViewCell alloc] init];
+\f2\fs24 \
+
+\f0\fs22    \cf5 return\cf0  cell;
+\f2\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf5 #endif
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22 \cf0 \}}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;代理&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'fa\'c0\'ed}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;九宫格实现&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'be\'c5\'b9\'ac\'b8\'f1\'ca\'b5\'cf\'d6}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;UICollectionView&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
+{\*\expandedcolortbl;;\csgenericrgb\c8235\c47843\c58824;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 UICollectionView}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKfkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26GkoSbnISX
+	lwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpJcAhpKEmZkUTlNWZXJ0aWNh
+	bGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5OU0JvdHRv
+	bU1hcmdpboaSqYaG
+	</data>
+	<key>title</key>
+	<string>UICollectionView</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
