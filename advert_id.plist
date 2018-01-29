@@ -31,17 +31,32 @@
 			<key>advertID</key>
 			<dict>
 				<key>launch</key>
-				<string>5040926725301753</string>
+				<string>4030226789233155</string>
 				<key>focusBanner</key>
-				<string>3090225715204755</string>
+				<string>1040129769837156</string>
 				<key>detail</key>
-				<string>9030627755306726</string>
+				<string>6050627709739117</string>
 				<key>download</key>
-				<string>7080924765203787</string>
+				<string>1000225709239188</string>
 				<key>attach</key>
-				<string>7050422715407789</string>
+				<string>7060722759834129</string>
 				<key>pause</key>
-				<string>5010621795802758</string>
+				<string>4080824739434220</string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>6090919871932330</string>
+				<key>focusBanner</key>
+				<string>6090919871932330</string>
+				<key>detail</key>
+				<string>6090919871932330</string>
+				<key>download</key>
+				<string>6090919871932330</string>
+				<key>attach</key>
+				<string>6090919871932330</string>
+				<key>pause</key>
+				<string>6090919871932330</string>
 			</dict>
 		</dict>
 		<key>GDTLaunch</key>
@@ -51,17 +66,7 @@
 			<key>advertID</key>
 			<dict>
 				<key>launch</key>
-				<string>4040228765309714</string>
-				<key>focusBanner</key>
-				<string></string>
-				<key>detail</key>
-				<string></string>
-				<key>download</key>
-				<string></string>
-				<key>attach</key>
-				<string></string>
-				<key>pause</key>
-				<string></string>
+				<string>9040923799435251</string>
 			</dict>
 		</dict>
 		<key>BaiduNative</key>
@@ -103,6 +108,21 @@
 				<key>pause</key>
 				<string>1504980735597</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>1508313536417</string>
+				<key>focusBanner</key>
+				<string>1511393769084</string>
+				<key>detail</key>
+				<string>1508608226569</string>
+				<key>download</key>
+				<string>1507791332996</string>
+				<key>attach</key>
+				<string>1508263109204</string>
+				<key>pause</key>
+				<string>1510905203806</string>
+			</dict>
 		</dict>
 		<key>ChangSiNative</key>
 		<dict>
@@ -120,6 +140,21 @@
 				<string></string>
 				<key>attach</key>
 				<string></string>
+				<key>pause</key>
+				<string></string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string></string>
+				<key>focusBanner</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>download</key>
+				<string></string>
+				<key>attach</key>
+				<string>851406633p2a2r9</string>
 				<key>pause</key>
 				<string></string>
 			</dict>
@@ -166,6 +201,21 @@
 				<key>pause</key>
 				<string>5010621795802758</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>6090919871932330</string>
+				<key>focusBanner</key>
+				<string>6090919871932330</string>
+				<key>detail</key>
+				<string>6090919871932330</string>
+				<key>download</key>
+				<string>6090919871932330</string>
+				<key>attach</key>
+				<string>6090919871932330</string>
+				<key>pause</key>
+				<string>6090919871932330</string>
+			</dict>
 		</dict>
 		<key>GDTLaunch</key>
 		<dict>
@@ -175,16 +225,6 @@
 			<dict>
 				<key>launch</key>
 				<string>4040228765309714</string>
-				<key>focusBanner</key>
-				<string></string>
-				<key>detail</key>
-				<string></string>
-				<key>download</key>
-				<string></string>
-				<key>attach</key>
-				<string></string>
-				<key>pause</key>
-				<string></string>
 			</dict>
 		</dict>
 		<key>BaiduNative</key>
@@ -226,6 +266,21 @@
 				<key>pause</key>
 				<string>1504980735597</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>1508313536417</string>
+				<key>focusBanner</key>
+				<string>1511393769084</string>
+				<key>detail</key>
+				<string>1508608226569</string>
+				<key>download</key>
+				<string>1507791332996</string>
+				<key>attach</key>
+				<string>1508263109204</string>
+				<key>pause</key>
+				<string>1510905203806</string>
+			</dict>
 		</dict>
 		<key>ChangSiNative</key>
 		<dict>
@@ -243,6 +298,21 @@
 				<string></string>
 				<key>attach</key>
 				<string></string>
+				<key>pause</key>
+				<string></string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string></string>
+				<key>focusBanner</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>download</key>
+				<string></string>
+				<key>attach</key>
+				<string>851406633p2a2r9</string>
 				<key>pause</key>
 				<string></string>
 			</dict>
@@ -288,6 +358,21 @@
 				<string>7060722759834129</string>
 				<key>pause</key>
 				<string>4080824739434220</string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>6090919871932330</string>
+				<key>focusBanner</key>
+				<string>6090919871932330</string>
+				<key>detail</key>
+				<string>6090919871932330</string>
+				<key>download</key>
+				<string>6090919871932330</string>
+				<key>attach</key>
+				<string>6090919871932330</string>
+				<key>pause</key>
+				<string>6090919871932330</string>
 			</dict>
 		</dict>
 		<key>GDTLaunch</key>
@@ -349,6 +434,21 @@
 				<key>pause</key>
 				<string>1504980735597</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>1508313536417</string>
+				<key>focusBanner</key>
+				<string>1511393769084</string>
+				<key>detail</key>
+				<string>1508608226569</string>
+				<key>download</key>
+				<string>1507791332996</string>
+				<key>attach</key>
+				<string>1508263109204</string>
+				<key>pause</key>
+				<string>1510905203806</string>
+			</dict>
 		</dict>
 		<key>ChangSiNative</key>
 		<dict>
@@ -366,6 +466,21 @@
 				<string></string>
 				<key>attach</key>
 				<string></string>
+				<key>pause</key>
+				<string></string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string></string>
+				<key>focusBanner</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>download</key>
+				<string></string>
+				<key>attach</key>
+				<string>851406633p2a2r9</string>
 				<key>pause</key>
 				<string></string>
 			</dict>
@@ -400,17 +515,32 @@
 			<key>advertID</key>
 			<dict>
 				<key>launch</key>
-				<string>5040926725301753</string>
+				<string>2000123725506820</string>
 				<key>focusBanner</key>
-				<string>3090225715204755</string>
+				<string>1080828785700892</string>
 				<key>detail</key>
-				<string>9030627755306726</string>
+				<string>5030024725106833</string>
 				<key>download</key>
-				<string>7080924765203787</string>
+				<string>5090624785403804</string>
 				<key>attach</key>
-				<string>7050422715407789</string>
+				<string>7050927735301838</string>
 				<key>pause</key>
-				<string>5010621795802758</string>
+				<string>7030721715906836</string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>6090919871932330</string>
+				<key>focusBanner</key>
+				<string>6090919871932330</string>
+				<key>detail</key>
+				<string>6090919871932330</string>
+				<key>download</key>
+				<string>6090919871932330</string>
+				<key>attach</key>
+				<string>6090919871932330</string>
+				<key>pause</key>
+				<string>6090919871932330</string>
 			</dict>
 		</dict>
 		<key>GDTLaunch</key>
@@ -420,7 +550,7 @@
 			<key>advertID</key>
 			<dict>
 				<key>launch</key>
-				<string>4040228765309714</string>
+				<string>2070727755301841</string>
 				<key>focusBanner</key>
 				<string></string>
 				<key>detail</key>
@@ -472,6 +602,21 @@
 				<key>pause</key>
 				<string>1504980735597</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>1508313536417</string>
+				<key>focusBanner</key>
+				<string>1511393769084</string>
+				<key>detail</key>
+				<string>1508608226569</string>
+				<key>download</key>
+				<string>1507791332996</string>
+				<key>attach</key>
+				<string>1508263109204</string>
+				<key>pause</key>
+				<string>1510905203806</string>
+			</dict>
 		</dict>
 		<key>ChangSiNative</key>
 		<dict>
@@ -489,6 +634,21 @@
 				<string></string>
 				<key>attach</key>
 				<string></string>
+				<key>pause</key>
+				<string></string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string></string>
+				<key>focusBanner</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>download</key>
+				<string></string>
+				<key>attach</key>
+				<string>851406633p2a2r9</string>
 				<key>pause</key>
 				<string></string>
 			</dict>
@@ -535,6 +695,21 @@
 				<key>pause</key>
 				<string>4000122755267429</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>6090919871932330</string>
+				<key>focusBanner</key>
+				<string>6090919871932330</string>
+				<key>detail</key>
+				<string>6090919871932330</string>
+				<key>download</key>
+				<string>6090919871932330</string>
+				<key>attach</key>
+				<string>6090919871932330</string>
+				<key>pause</key>
+				<string>6090919871932330</string>
+			</dict>
 		</dict>
 		<key>GDTLaunch</key>
 		<dict>
@@ -544,16 +719,6 @@
 			<dict>
 				<key>launch</key>
 				<string>2060220745663434</string>
-				<key>focusBanner</key>
-				<string></string>
-				<key>detail</key>
-				<string></string>
-				<key>download</key>
-				<string></string>
-				<key>attach</key>
-				<string></string>
-				<key>pause</key>
-				<string></string>
 			</dict>
 		</dict>
 		<key>BaiduNative</key>
@@ -595,6 +760,21 @@
 				<key>pause</key>
 				<string>1504980735597</string>
 			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string>1508313536417</string>
+				<key>focusBanner</key>
+				<string>1511393769084</string>
+				<key>detail</key>
+				<string>1508608226569</string>
+				<key>download</key>
+				<string>1507791332996</string>
+				<key>attach</key>
+				<string>1508263109204</string>
+				<key>pause</key>
+				<string>1510905203806</string>
+			</dict>
 		</dict>
 		<key>ChangSiNative</key>
 		<dict>
@@ -612,6 +792,21 @@
 				<string></string>
 				<key>attach</key>
 				<string></string>
+				<key>pause</key>
+				<string></string>
+			</dict>
+			<key>testAdvertID</key>
+			<dict>
+				<key>launch</key>
+				<string></string>
+				<key>focusBanner</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>download</key>
+				<string></string>
+				<key>attach</key>
+				<string>851406633p2a2r9</string>
 				<key>pause</key>
 				<string></string>
 			</dict>
