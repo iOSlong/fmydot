@@ -45,3 +45,9 @@ https://www.mikeash.com/pyblog/friday-qa-2009-05-22-objective-c-class-loading-an
 
 
 
+## 迅雷账号
+19184679291  pwd:longxuewu2022
+[https://www.uump4.net/](迅雷影视资源下载网站)
+
+  
+
